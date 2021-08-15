@@ -1,8 +1,3 @@
-'''
-zip report-sheet-comparison.zip report-sheet-comparison.py
-aws lambda create-function --function-name report-sheet-comparison --runtime python3.7 --handler report-sheet-comparison.handler --role arn:aws:iam::414421394627:role/api-parati-dev-us-east-1-lambdaRole --zip-file fileb://report-sheet-comparison.zip
-'''
-
 import pandas as pd, numpy as np, boto3, os, json
 from locale import atof, setlocale, LC_NUMERIC
 
