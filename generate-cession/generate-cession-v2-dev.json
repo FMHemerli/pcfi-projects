@@ -1,0 +1,211 @@
+{
+  "StartAt": "MapState",
+  "States": {
+    "MapState": {
+      "Type": "Map",
+      "MaxConcurrency": 5,
+      "ItemsPath": "$.$in",
+      "Parameters": {
+        "model.$": "$.model",
+        "sales_date.$": "$.sales_date",
+        "token.$": "$$.Map.Item.Value",
+        "index.$": "$$.Map.Item.Index"
+      },
+      "Iterator": {
+        "StartAt": "Inquiry",
+        "States": {
+          "Inquiry": {
+            "Type": "Parallel",
+            "Next": "FormatJson",
+            "ResultPath": "$.data",
+            "Branches": [
+              {
+                "StartAt": "AccountInquiry",
+                "States": {
+                  "AccountInquiry": {
+                    "Type": "Task",
+                    "Resource": "arn:aws:lambda:us-east-1:414421394627:function:db-mapper-nosql-query",
+                    "Parameters": {
+                      "document": {
+                        "token_fintech.$": "$.token"
+                      },
+                      "fields": {
+                        "_id": false,
+                        "archives": false
+                      },
+                      "collection": "account",
+                      "stage": "sandbox",
+                      "db": "painel"
+                    },
+                    "End": true
+                  }
+                }
+              },
+              {
+                "StartAt": "ProposalInquiry",
+                "States": {
+                  "ProposalInquiry": {
+                    "Type": "Task",
+                    "Resource": "arn:aws:lambda:us-east-1:414421394627:function:db-mapper-nosql-query",
+                    "Parameters": {
+                      "document": {
+                        "token_fintech.$": "$.token"
+                      },
+                      "fields": {
+                        "_id": false,
+                        "archives": false
+                      },
+                      "collection": "proposal",
+                      "stage": "sandbox",
+                      "db": "painel"
+                    },
+                    "End": true
+                  }
+                }
+              }
+            ]
+          },
+          "FormatJson": {
+            "Type": "Pass",
+            "Parameters": {
+              "index.$": "$.index",
+              "sales_date.$": "$.sales_date",
+              "model.$": "$.model",
+              "contract.$": "$.data.[1].results.[0].token_fintech",
+              "ccb.$": "$.data.[1].results.[0].ccb",
+              "contract_date.$": "$.data.[1].results.[0].date",
+              "last_due.$": "$.data.[1].results.[0].last_due",
+              "final_amount.$": "$.data.[1].results.[0].final_amount",
+              "document_number.$": "$.data.[1].results.[0].document_number",
+              "name.$": "$.data.[1].results.[0].name",
+              "portion.$": "$.data.[1].results.[0].portion",
+              "contract_rate.$": "$.data.[1].results.[0].tax_am",
+              "address": {
+                "street.$": "$.data.[0].results.[0].street",
+                "number.$": "$.data.[0].results.[0].number"
+              },
+              "zip_code.$": "$.data.[0].results.[0].zip_code",
+              "date_birth.$": "$.data.[0].results.[0].date_birth",
+              "associated_tax.$": "$.data.[1].results.[0].associated_tax",
+              "liquid_amount.$": "$.data.[1].results.[0].liquid_amount",
+              "discharge.$": "$.data.[1].results.[0].discharge",
+              "operation_date.$": "$.data.[1].results.[0].date",
+              "first_due.$": "$.data.[1].results.[0].first_due",
+              "iof.$": "$.data.[1].results.[0].iof",
+              "rate_advance": "",
+              "installments.$": "$.data.[1].results.[0].term",
+              "comission.$": "$.data.[1].results.[0].comission",
+              "amount.$": "$.data.[1].results.[0].amount",
+              "percent_comission": ""
+            },
+            "Next": "FixStreetName"
+          },
+          "FixStreetName": {
+            "Type": "Task",
+            "Resource": "arn:aws:lambda:us-east-1:414421394627:function:concat-prod-app",
+            "Parameters": {
+              "variables": {
+                "first.$": "$.address.street",
+                "last.$": "$.address.number"
+              },
+              "pattern": "${first} ${last}"
+            },
+            "ResultPath": "$.address",
+            "Next": "CalculateVenalValue"
+          },
+          "CalculateVenalValue": {
+            "Type": "Task",
+            "Resource": "arn:aws:lambda:us-east-1:414421394627:function:calculate-venal-value",
+            "Parameters": {
+              "associated_tax.$": "$.associated_tax",
+              "liquid_amount.$": "$.liquid_amount",
+              "discharge.$": "$.discharge",
+              "sales_date.$": "$.sales_date",
+              "model.$": "$.model",
+              "operation_date.$": "$.operation_date",
+              "first_due.$": "$.first_due",
+              "installments.$": "$.installments",
+              "contract_rate.$": "$.contract_rate",
+              "iof.$": "$.iof",
+              "percent_indexer": "86"
+            },
+            "ResultPath": "$.values",
+            "Next": "SaveMapToFile"
+          },
+          "SaveMapToFile": {
+            "Type": "Task",
+            "Resource": "arn:aws:lambda:us-east-1:414421394627:function:save-map-output",
+            "Parameters": {
+              "bucket": "brzparati",
+              "index.$": "$.index",
+              "content.$": "$",
+              "event": "save"
+            },
+            "End": true
+          }
+        }
+      },
+      "ResultPath": "$.files",
+      "Next": "ConcatMapOutput"
+    },
+    "ConcatMapOutput": {
+      "Type": "Task",
+      "Resource": "arn:aws:lambda:us-east-1:414421394627:function:save-map-output",
+      "Parameters": {
+        "event": "concat",
+        "bucket": "brzparati",
+        "content.$": "$.files",
+        "execution_name": "generate-cession-v2-dev"
+      },
+      "ResultPath": "$.files",
+      "Next": "Model?"
+    },
+    "Model?": {
+      "Type": "Choice",
+      "Choices": [
+        {
+          "Variable": "$.model",
+          "StringEquals": "terra",
+          "Next": "Terra_GenerateCNAB444"
+        },
+        {
+          "Variable": "$.model",
+          "StringEquals": "brz",
+          "Next": "BRZ_GenerateCNAB55X"
+        }
+      ],
+      "Default": "NoModel"
+    },
+    "NoModel": {
+      "Type": "Pass",
+      "End": true,
+      "Comment": "NO MODEL FOUND, ABORTED!\n\tCurrently available models are 'brz' and 'terra'"
+    },
+    "Terra_GenerateCNAB444": {
+      "Type": "Pass",
+      "Next": "CallPipefyReport"
+    },
+    "BRZ_GenerateCNAB55X": {
+      "Type": "Task",
+      "Resource": "arn:aws:lambda:us-east-1:414421394627:function:generate-cnab",
+      "Parameters": {
+        "bucket.$": "$.files.bucket",
+        "key.$": "$.files.key"
+      },
+      "ResultPath": "$.creation_status",
+      "Next": "CallPipefyReport"
+    },
+    "CallPipefyReport": {
+      "End": true,
+      "Type": "Task",
+      "Resource": "arn:aws:lambda:us-east-1:414421394627:function:sfn-execution",
+      "Parameters": {
+        "arn": "arn:aws:states:us-east-1:414421394627:stateMachine:akrk-pipefy-report",
+        "input": {
+          "items.$": "$.$in",
+          "sales_date.$": "$.sales_date"
+        }
+      }
+    }
+  }
+}

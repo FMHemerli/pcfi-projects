@@ -1,0 +1,6715 @@
+[
+  {
+    "address": "RUA NBARATA RIBEIRO  131",
+    "iof": "0",
+    "rate_advance": "",
+    "percent_comission": "",
+    "date_birth": "1961-06-17 00:00:00",
+    "amount": "75894.19",
+    "last_due": "2028-04-20 00:00:00",
+    "document_number": "415.357.580-15",
+    "liquid_amount": "9120.17",
+    "sales_date": "2020-04-09",
+    "contract": "291899",
+    "portion": "1780.47",
+    "index": 0,
+    "operation_date": "2020-04-08 00:00:00",
+    "zip_code": "96080-070",
+    "associated_tax": "12059.81",
+    "contract_date": "2020-04-08 00:00:00",
+    "installments": "96",
+    "first_due": "2020-05-20 00:00:00",
+    "comission": "7285.84",
+    "name": "PEDRO MOACYR PEREZ DA SILVEIRA",
+    "discharge": "54714.21",
+    "contract_rate": "26.38",
+    "final_amount": "170925.12",
+    "values": {
+      "current_value": "75992.97",
+      "venal_value": "82956.40",
+      "portion": "1780.58",
+      "annual_rate": "26.3800",
+      "installments": [
+        {
+          "installment_number": "1",
+          "date": "2020-05-20",
+          "current_value": "1734.86",
+          "venal_value": "1740.58"
+        },
+        {
+          "installment_number": "2",
+          "date": "2020-06-20",
+          "current_value": "1701.34",
+          "venal_value": "1711.18"
+        },
+        {
+          "installment_number": "3",
+          "date": "2020-07-20",
+          "current_value": "1668.47",
+          "venal_value": "1682.27"
+        },
+        {
+          "installment_number": "4",
+          "date": "2020-08-20",
+          "current_value": "1636.23",
+          "venal_value": "1653.85"
+        },
+        {
+          "installment_number": "5",
+          "date": "2020-09-20",
+          "current_value": "1604.62",
+          "venal_value": "1625.91"
+        },
+        {
+          "installment_number": "6",
+          "date": "2020-10-20",
+          "current_value": "1573.61",
+          "venal_value": "1598.44"
+        },
+        {
+          "installment_number": "7",
+          "date": "2020-11-20",
+          "current_value": "1543.21",
+          "venal_value": "1571.43"
+        },
+        {
+          "installment_number": "8",
+          "date": "2020-12-20",
+          "current_value": "1513.39",
+          "venal_value": "1544.89"
+        },
+        {
+          "installment_number": "9",
+          "date": "2021-01-20",
+          "current_value": "1484.15",
+          "venal_value": "1518.79"
+        },
+        {
+          "installment_number": "10",
+          "date": "2021-02-20",
+          "current_value": "1455.48",
+          "venal_value": "1493.13"
+        },
+        {
+          "installment_number": "11",
+          "date": "2021-03-20",
+          "current_value": "1427.36",
+          "venal_value": "1467.90"
+        },
+        {
+          "installment_number": "12",
+          "date": "2021-04-20",
+          "current_value": "1399.78",
+          "venal_value": "1443.10"
+        },
+        {
+          "installment_number": "13",
+          "date": "2021-05-20",
+          "current_value": "1372.73",
+          "venal_value": "1418.72"
+        },
+        {
+          "installment_number": "14",
+          "date": "2021-06-20",
+          "current_value": "1346.21",
+          "venal_value": "1394.75"
+        },
+        {
+          "installment_number": "15",
+          "date": "2021-07-20",
+          "current_value": "1320.20",
+          "venal_value": "1371.19"
+        },
+        {
+          "installment_number": "16",
+          "date": "2021-08-20",
+          "current_value": "1294.69",
+          "venal_value": "1348.02"
+        },
+        {
+          "installment_number": "17",
+          "date": "2021-09-20",
+          "current_value": "1269.68",
+          "venal_value": "1325.25"
+        },
+        {
+          "installment_number": "18",
+          "date": "2021-10-20",
+          "current_value": "1245.14",
+          "venal_value": "1302.86"
+        },
+        {
+          "installment_number": "19",
+          "date": "2021-11-20",
+          "current_value": "1221.09",
+          "venal_value": "1280.85"
+        },
+        {
+          "installment_number": "20",
+          "date": "2021-12-20",
+          "current_value": "1197.49",
+          "venal_value": "1259.21"
+        },
+        {
+          "installment_number": "21",
+          "date": "2022-01-20",
+          "current_value": "1174.36",
+          "venal_value": "1237.94"
+        },
+        {
+          "installment_number": "22",
+          "date": "2022-02-20",
+          "current_value": "1151.67",
+          "venal_value": "1217.02"
+        },
+        {
+          "installment_number": "23",
+          "date": "2022-03-20",
+          "current_value": "1129.42",
+          "venal_value": "1196.46"
+        },
+        {
+          "installment_number": "24",
+          "date": "2022-04-20",
+          "current_value": "1107.59",
+          "venal_value": "1176.25"
+        },
+        {
+          "installment_number": "25",
+          "date": "2022-05-20",
+          "current_value": "1086.19",
+          "venal_value": "1156.38"
+        },
+        {
+          "installment_number": "26",
+          "date": "2022-06-20",
+          "current_value": "1065.21",
+          "venal_value": "1136.84"
+        },
+        {
+          "installment_number": "27",
+          "date": "2022-07-20",
+          "current_value": "1044.63",
+          "venal_value": "1117.63"
+        },
+        {
+          "installment_number": "28",
+          "date": "2022-08-20",
+          "current_value": "1024.44",
+          "venal_value": "1098.75"
+        },
+        {
+          "installment_number": "29",
+          "date": "2022-09-20",
+          "current_value": "1004.65",
+          "venal_value": "1080.19"
+        },
+        {
+          "installment_number": "30",
+          "date": "2022-10-20",
+          "current_value": "985.24",
+          "venal_value": "1061.94"
+        },
+        {
+          "installment_number": "31",
+          "date": "2022-11-20",
+          "current_value": "966.20",
+          "venal_value": "1044.00"
+        },
+        {
+          "installment_number": "32",
+          "date": "2022-12-20",
+          "current_value": "947.53",
+          "venal_value": "1026.36"
+        },
+        {
+          "installment_number": "33",
+          "date": "2023-01-20",
+          "current_value": "929.23",
+          "venal_value": "1009.02"
+        },
+        {
+          "installment_number": "34",
+          "date": "2023-02-20",
+          "current_value": "911.27",
+          "venal_value": "991.98"
+        },
+        {
+          "installment_number": "35",
+          "date": "2023-03-20",
+          "current_value": "893.67",
+          "venal_value": "975.22"
+        },
+        {
+          "installment_number": "36",
+          "date": "2023-04-20",
+          "current_value": "876.40",
+          "venal_value": "958.74"
+        },
+        {
+          "installment_number": "37",
+          "date": "2023-05-20",
+          "current_value": "859.47",
+          "venal_value": "942.54"
+        },
+        {
+          "installment_number": "38",
+          "date": "2023-06-20",
+          "current_value": "842.86",
+          "venal_value": "926.62"
+        },
+        {
+          "installment_number": "39",
+          "date": "2023-07-20",
+          "current_value": "826.58",
+          "venal_value": "910.97"
+        },
+        {
+          "installment_number": "40",
+          "date": "2023-08-20",
+          "current_value": "810.61",
+          "venal_value": "895.58"
+        },
+        {
+          "installment_number": "41",
+          "date": "2023-09-20",
+          "current_value": "794.94",
+          "venal_value": "880.45"
+        },
+        {
+          "installment_number": "42",
+          "date": "2023-10-20",
+          "current_value": "779.58",
+          "venal_value": "865.57"
+        },
+        {
+          "installment_number": "43",
+          "date": "2023-11-20",
+          "current_value": "764.52",
+          "venal_value": "850.95"
+        },
+        {
+          "installment_number": "44",
+          "date": "2023-12-20",
+          "current_value": "749.75",
+          "venal_value": "836.57"
+        },
+        {
+          "installment_number": "45",
+          "date": "2024-01-20",
+          "current_value": "735.26",
+          "venal_value": "822.44"
+        },
+        {
+          "installment_number": "46",
+          "date": "2024-02-20",
+          "current_value": "721.06",
+          "venal_value": "808.54"
+        },
+        {
+          "installment_number": "47",
+          "date": "2024-03-20",
+          "current_value": "707.13",
+          "venal_value": "794.88"
+        },
+        {
+          "installment_number": "48",
+          "date": "2024-04-20",
+          "current_value": "693.46",
+          "venal_value": "781.45"
+        },
+        {
+          "installment_number": "49",
+          "date": "2024-05-20",
+          "current_value": "680.07",
+          "venal_value": "768.25"
+        },
+        {
+          "installment_number": "50",
+          "date": "2024-06-20",
+          "current_value": "666.93",
+          "venal_value": "755.27"
+        },
+        {
+          "installment_number": "51",
+          "date": "2024-07-20",
+          "current_value": "654.04",
+          "venal_value": "742.51"
+        },
+        {
+          "installment_number": "52",
+          "date": "2024-08-20",
+          "current_value": "641.40",
+          "venal_value": "729.97"
+        },
+        {
+          "installment_number": "53",
+          "date": "2024-09-20",
+          "current_value": "629.01",
+          "venal_value": "717.64"
+        },
+        {
+          "installment_number": "54",
+          "date": "2024-10-20",
+          "current_value": "616.86",
+          "venal_value": "705.51"
+        },
+        {
+          "installment_number": "55",
+          "date": "2024-11-20",
+          "current_value": "604.94",
+          "venal_value": "693.59"
+        },
+        {
+          "installment_number": "56",
+          "date": "2024-12-20",
+          "current_value": "593.25",
+          "venal_value": "681.88"
+        },
+        {
+          "installment_number": "57",
+          "date": "2025-01-20",
+          "current_value": "581.79",
+          "venal_value": "670.36"
+        },
+        {
+          "installment_number": "58",
+          "date": "2025-02-20",
+          "current_value": "570.55",
+          "venal_value": "659.03"
+        },
+        {
+          "installment_number": "59",
+          "date": "2025-03-20",
+          "current_value": "559.52",
+          "venal_value": "647.90"
+        },
+        {
+          "installment_number": "60",
+          "date": "2025-04-20",
+          "current_value": "548.71",
+          "venal_value": "636.95"
+        },
+        {
+          "installment_number": "61",
+          "date": "2025-05-20",
+          "current_value": "538.11",
+          "venal_value": "626.19"
+        },
+        {
+          "installment_number": "62",
+          "date": "2025-06-20",
+          "current_value": "527.71",
+          "venal_value": "615.61"
+        },
+        {
+          "installment_number": "63",
+          "date": "2025-07-20",
+          "current_value": "517.52",
+          "venal_value": "605.21"
+        },
+        {
+          "installment_number": "64",
+          "date": "2025-08-20",
+          "current_value": "507.52",
+          "venal_value": "594.99"
+        },
+        {
+          "installment_number": "65",
+          "date": "2025-09-20",
+          "current_value": "497.71",
+          "venal_value": "584.93"
+        },
+        {
+          "installment_number": "66",
+          "date": "2025-10-20",
+          "current_value": "488.10",
+          "venal_value": "575.05"
+        },
+        {
+          "installment_number": "67",
+          "date": "2025-11-20",
+          "current_value": "478.67",
+          "venal_value": "565.34"
+        },
+        {
+          "installment_number": "68",
+          "date": "2025-12-20",
+          "current_value": "469.42",
+          "venal_value": "555.79"
+        },
+        {
+          "installment_number": "69",
+          "date": "2026-01-20",
+          "current_value": "460.35",
+          "venal_value": "546.40"
+        },
+        {
+          "installment_number": "70",
+          "date": "2026-02-20",
+          "current_value": "451.45",
+          "venal_value": "537.16"
+        },
+        {
+          "installment_number": "71",
+          "date": "2026-03-20",
+          "current_value": "442.73",
+          "venal_value": "528.09"
+        },
+        {
+          "installment_number": "72",
+          "date": "2026-04-20",
+          "current_value": "434.18",
+          "venal_value": "519.17"
+        },
+        {
+          "installment_number": "73",
+          "date": "2026-05-20",
+          "current_value": "425.79",
+          "venal_value": "510.40"
+        },
+        {
+          "installment_number": "74",
+          "date": "2026-06-20",
+          "current_value": "417.56",
+          "venal_value": "501.77"
+        },
+        {
+          "installment_number": "75",
+          "date": "2026-07-20",
+          "current_value": "409.49",
+          "venal_value": "493.30"
+        },
+        {
+          "installment_number": "76",
+          "date": "2026-08-20",
+          "current_value": "401.58",
+          "venal_value": "484.96"
+        },
+        {
+          "installment_number": "77",
+          "date": "2026-09-20",
+          "current_value": "393.82",
+          "venal_value": "476.77"
+        },
+        {
+          "installment_number": "78",
+          "date": "2026-10-20",
+          "current_value": "386.21",
+          "venal_value": "468.72"
+        },
+        {
+          "installment_number": "79",
+          "date": "2026-11-20",
+          "current_value": "378.75",
+          "venal_value": "460.80"
+        },
+        {
+          "installment_number": "80",
+          "date": "2026-12-20",
+          "current_value": "371.43",
+          "venal_value": "453.01"
+        },
+        {
+          "installment_number": "81",
+          "date": "2027-01-20",
+          "current_value": "364.26",
+          "venal_value": "445.36"
+        },
+        {
+          "installment_number": "82",
+          "date": "2027-02-20",
+          "current_value": "357.22",
+          "venal_value": "437.83"
+        },
+        {
+          "installment_number": "83",
+          "date": "2027-03-20",
+          "current_value": "350.32",
+          "venal_value": "430.44"
+        },
+        {
+          "installment_number": "84",
+          "date": "2027-04-20",
+          "current_value": "343.55",
+          "venal_value": "423.17"
+        },
+        {
+          "installment_number": "85",
+          "date": "2027-05-20",
+          "current_value": "336.91",
+          "venal_value": "416.02"
+        },
+        {
+          "installment_number": "86",
+          "date": "2027-06-20",
+          "current_value": "330.40",
+          "venal_value": "408.99"
+        },
+        {
+          "installment_number": "87",
+          "date": "2027-07-20",
+          "current_value": "324.02",
+          "venal_value": "402.08"
+        },
+        {
+          "installment_number": "88",
+          "date": "2027-08-20",
+          "current_value": "317.76",
+          "venal_value": "395.29"
+        },
+        {
+          "installment_number": "89",
+          "date": "2027-09-20",
+          "current_value": "311.62",
+          "venal_value": "388.61"
+        },
+        {
+          "installment_number": "90",
+          "date": "2027-10-20",
+          "current_value": "305.60",
+          "venal_value": "382.04"
+        },
+        {
+          "installment_number": "91",
+          "date": "2027-11-20",
+          "current_value": "299.69",
+          "venal_value": "375.59"
+        },
+        {
+          "installment_number": "92",
+          "date": "2027-12-20",
+          "current_value": "293.90",
+          "venal_value": "369.24"
+        },
+        {
+          "installment_number": "93",
+          "date": "2028-01-20",
+          "current_value": "288.22",
+          "venal_value": "363.00"
+        },
+        {
+          "installment_number": "94",
+          "date": "2028-02-20",
+          "current_value": "282.66",
+          "venal_value": "356.87"
+        },
+        {
+          "installment_number": "95",
+          "date": "2028-03-20",
+          "current_value": "277.19",
+          "venal_value": "350.84"
+        },
+        {
+          "installment_number": "96",
+          "date": "2028-04-20",
+          "current_value": "271.84",
+          "venal_value": "344.92"
+        }
+      ]
+    }
+  },
+  {
+    "address": "RUA JUNHO ROCHA  988",
+    "iof": "0",
+    "rate_advance": "",
+    "percent_comission": "",
+    "date_birth": "1948-06-11 00:00:00",
+    "amount": "1833.77",
+    "last_due": "2028-04-20 00:00:00",
+    "document_number": "014.698.002-68",
+    "liquid_amount": "612.61",
+    "sales_date": "2020-04-09",
+    "contract": "287388",
+    "portion": "43.02",
+    "index": 1,
+    "operation_date": "2020-04-08 00:00:00",
+    "zip_code": "60821-580",
+    "associated_tax": "200.52",
+    "contract_date": "2020-04-08 00:00:00",
+    "installments": "96",
+    "first_due": "2020-05-20 00:00:00",
+    "comission": "176.04",
+    "name": "REJANE PESTANA ALHADEF",
+    "discharge": "1020.64",
+    "contract_rate": "26.38",
+    "final_amount": "4129.92",
+    "values": {
+      "current_value": "1836.16",
+      "venal_value": "2004.41",
+      "portion": "43.02",
+      "annual_rate": "26.3800",
+      "installments": [
+        {
+          "installment_number": "1",
+          "date": "2020-05-20",
+          "current_value": "41.92",
+          "venal_value": "42.06"
+        },
+        {
+          "installment_number": "2",
+          "date": "2020-06-20",
+          "current_value": "41.11",
+          "venal_value": "41.35"
+        },
+        {
+          "installment_number": "3",
+          "date": "2020-07-20",
+          "current_value": "40.31",
+          "venal_value": "40.65"
+        },
+        {
+          "installment_number": "4",
+          "date": "2020-08-20",
+          "current_value": "39.53",
+          "venal_value": "39.96"
+        },
+        {
+          "installment_number": "5",
+          "date": "2020-09-20",
+          "current_value": "38.77",
+          "venal_value": "39.29"
+        },
+        {
+          "installment_number": "6",
+          "date": "2020-10-20",
+          "current_value": "38.02",
+          "venal_value": "38.62"
+        },
+        {
+          "installment_number": "7",
+          "date": "2020-11-20",
+          "current_value": "37.29",
+          "venal_value": "37.97"
+        },
+        {
+          "installment_number": "8",
+          "date": "2020-12-20",
+          "current_value": "36.57",
+          "venal_value": "37.33"
+        },
+        {
+          "installment_number": "9",
+          "date": "2021-01-20",
+          "current_value": "35.86",
+          "venal_value": "36.70"
+        },
+        {
+          "installment_number": "10",
+          "date": "2021-02-20",
+          "current_value": "35.17",
+          "venal_value": "36.08"
+        },
+        {
+          "installment_number": "11",
+          "date": "2021-03-20",
+          "current_value": "34.49",
+          "venal_value": "35.47"
+        },
+        {
+          "installment_number": "12",
+          "date": "2021-04-20",
+          "current_value": "33.82",
+          "venal_value": "34.87"
+        },
+        {
+          "installment_number": "13",
+          "date": "2021-05-20",
+          "current_value": "33.17",
+          "venal_value": "34.28"
+        },
+        {
+          "installment_number": "14",
+          "date": "2021-06-20",
+          "current_value": "32.53",
+          "venal_value": "33.70"
+        },
+        {
+          "installment_number": "15",
+          "date": "2021-07-20",
+          "current_value": "31.90",
+          "venal_value": "33.13"
+        },
+        {
+          "installment_number": "16",
+          "date": "2021-08-20",
+          "current_value": "31.28",
+          "venal_value": "32.57"
+        },
+        {
+          "installment_number": "17",
+          "date": "2021-09-20",
+          "current_value": "30.68",
+          "venal_value": "32.02"
+        },
+        {
+          "installment_number": "18",
+          "date": "2021-10-20",
+          "current_value": "30.09",
+          "venal_value": "31.48"
+        },
+        {
+          "installment_number": "19",
+          "date": "2021-11-20",
+          "current_value": "29.50",
+          "venal_value": "30.95"
+        },
+        {
+          "installment_number": "20",
+          "date": "2021-12-20",
+          "current_value": "28.93",
+          "venal_value": "30.43"
+        },
+        {
+          "installment_number": "21",
+          "date": "2022-01-20",
+          "current_value": "28.38",
+          "venal_value": "29.91"
+        },
+        {
+          "installment_number": "22",
+          "date": "2022-02-20",
+          "current_value": "27.83",
+          "venal_value": "29.41"
+        },
+        {
+          "installment_number": "23",
+          "date": "2022-03-20",
+          "current_value": "27.29",
+          "venal_value": "28.91"
+        },
+        {
+          "installment_number": "24",
+          "date": "2022-04-20",
+          "current_value": "26.76",
+          "venal_value": "28.42"
+        },
+        {
+          "installment_number": "25",
+          "date": "2022-05-20",
+          "current_value": "26.24",
+          "venal_value": "27.94"
+        },
+        {
+          "installment_number": "26",
+          "date": "2022-06-20",
+          "current_value": "25.74",
+          "venal_value": "27.47"
+        },
+        {
+          "installment_number": "27",
+          "date": "2022-07-20",
+          "current_value": "25.24",
+          "venal_value": "27.00"
+        },
+        {
+          "installment_number": "28",
+          "date": "2022-08-20",
+          "current_value": "24.75",
+          "venal_value": "26.55"
+        },
+        {
+          "installment_number": "29",
+          "date": "2022-09-20",
+          "current_value": "24.27",
+          "venal_value": "26.10"
+        },
+        {
+          "installment_number": "30",
+          "date": "2022-10-20",
+          "current_value": "23.81",
+          "venal_value": "25.66"
+        },
+        {
+          "installment_number": "31",
+          "date": "2022-11-20",
+          "current_value": "23.35",
+          "venal_value": "25.23"
+        },
+        {
+          "installment_number": "32",
+          "date": "2022-12-20",
+          "current_value": "22.89",
+          "venal_value": "24.80"
+        },
+        {
+          "installment_number": "33",
+          "date": "2023-01-20",
+          "current_value": "22.45",
+          "venal_value": "24.38"
+        },
+        {
+          "installment_number": "34",
+          "date": "2023-02-20",
+          "current_value": "22.02",
+          "venal_value": "23.97"
+        },
+        {
+          "installment_number": "35",
+          "date": "2023-03-20",
+          "current_value": "21.59",
+          "venal_value": "23.56"
+        },
+        {
+          "installment_number": "36",
+          "date": "2023-04-20",
+          "current_value": "21.18",
+          "venal_value": "23.17"
+        },
+        {
+          "installment_number": "37",
+          "date": "2023-05-20",
+          "current_value": "20.77",
+          "venal_value": "22.77"
+        },
+        {
+          "installment_number": "38",
+          "date": "2023-06-20",
+          "current_value": "20.37",
+          "venal_value": "22.39"
+        },
+        {
+          "installment_number": "39",
+          "date": "2023-07-20",
+          "current_value": "19.97",
+          "venal_value": "22.01"
+        },
+        {
+          "installment_number": "40",
+          "date": "2023-08-20",
+          "current_value": "19.59",
+          "venal_value": "21.64"
+        },
+        {
+          "installment_number": "41",
+          "date": "2023-09-20",
+          "current_value": "19.21",
+          "venal_value": "21.27"
+        },
+        {
+          "installment_number": "42",
+          "date": "2023-10-20",
+          "current_value": "18.84",
+          "venal_value": "20.91"
+        },
+        {
+          "installment_number": "43",
+          "date": "2023-11-20",
+          "current_value": "18.47",
+          "venal_value": "20.56"
+        },
+        {
+          "installment_number": "44",
+          "date": "2023-12-20",
+          "current_value": "18.12",
+          "venal_value": "20.21"
+        },
+        {
+          "installment_number": "45",
+          "date": "2024-01-20",
+          "current_value": "17.77",
+          "venal_value": "19.87"
+        },
+        {
+          "installment_number": "46",
+          "date": "2024-02-20",
+          "current_value": "17.42",
+          "venal_value": "19.54"
+        },
+        {
+          "installment_number": "47",
+          "date": "2024-03-20",
+          "current_value": "17.09",
+          "venal_value": "19.21"
+        },
+        {
+          "installment_number": "48",
+          "date": "2024-04-20",
+          "current_value": "16.76",
+          "venal_value": "18.88"
+        },
+        {
+          "installment_number": "49",
+          "date": "2024-05-20",
+          "current_value": "16.43",
+          "venal_value": "18.56"
+        },
+        {
+          "installment_number": "50",
+          "date": "2024-06-20",
+          "current_value": "16.11",
+          "venal_value": "18.25"
+        },
+        {
+          "installment_number": "51",
+          "date": "2024-07-20",
+          "current_value": "15.80",
+          "venal_value": "17.94"
+        },
+        {
+          "installment_number": "52",
+          "date": "2024-08-20",
+          "current_value": "15.50",
+          "venal_value": "17.64"
+        },
+        {
+          "installment_number": "53",
+          "date": "2024-09-20",
+          "current_value": "15.20",
+          "venal_value": "17.34"
+        },
+        {
+          "installment_number": "54",
+          "date": "2024-10-20",
+          "current_value": "14.90",
+          "venal_value": "17.05"
+        },
+        {
+          "installment_number": "55",
+          "date": "2024-11-20",
+          "current_value": "14.62",
+          "venal_value": "16.76"
+        },
+        {
+          "installment_number": "56",
+          "date": "2024-12-20",
+          "current_value": "14.33",
+          "venal_value": "16.48"
+        },
+        {
+          "installment_number": "57",
+          "date": "2025-01-20",
+          "current_value": "14.06",
+          "venal_value": "16.20"
+        },
+        {
+          "installment_number": "58",
+          "date": "2025-02-20",
+          "current_value": "13.79",
+          "venal_value": "15.92"
+        },
+        {
+          "installment_number": "59",
+          "date": "2025-03-20",
+          "current_value": "13.52",
+          "venal_value": "15.65"
+        },
+        {
+          "installment_number": "60",
+          "date": "2025-04-20",
+          "current_value": "13.26",
+          "venal_value": "15.39"
+        },
+        {
+          "installment_number": "61",
+          "date": "2025-05-20",
+          "current_value": "13.00",
+          "venal_value": "15.13"
+        },
+        {
+          "installment_number": "62",
+          "date": "2025-06-20",
+          "current_value": "12.75",
+          "venal_value": "14.87"
+        },
+        {
+          "installment_number": "63",
+          "date": "2025-07-20",
+          "current_value": "12.50",
+          "venal_value": "14.62"
+        },
+        {
+          "installment_number": "64",
+          "date": "2025-08-20",
+          "current_value": "12.26",
+          "venal_value": "14.38"
+        },
+        {
+          "installment_number": "65",
+          "date": "2025-09-20",
+          "current_value": "12.03",
+          "venal_value": "14.13"
+        },
+        {
+          "installment_number": "66",
+          "date": "2025-10-20",
+          "current_value": "11.79",
+          "venal_value": "13.89"
+        },
+        {
+          "installment_number": "67",
+          "date": "2025-11-20",
+          "current_value": "11.57",
+          "venal_value": "13.66"
+        },
+        {
+          "installment_number": "68",
+          "date": "2025-12-20",
+          "current_value": "11.34",
+          "venal_value": "13.43"
+        },
+        {
+          "installment_number": "69",
+          "date": "2026-01-20",
+          "current_value": "11.12",
+          "venal_value": "13.20"
+        },
+        {
+          "installment_number": "70",
+          "date": "2026-02-20",
+          "current_value": "10.91",
+          "venal_value": "12.98"
+        },
+        {
+          "installment_number": "71",
+          "date": "2026-03-20",
+          "current_value": "10.70",
+          "venal_value": "12.76"
+        },
+        {
+          "installment_number": "72",
+          "date": "2026-04-20",
+          "current_value": "10.49",
+          "venal_value": "12.54"
+        },
+        {
+          "installment_number": "73",
+          "date": "2026-05-20",
+          "current_value": "10.29",
+          "venal_value": "12.33"
+        },
+        {
+          "installment_number": "74",
+          "date": "2026-06-20",
+          "current_value": "10.09",
+          "venal_value": "12.12"
+        },
+        {
+          "installment_number": "75",
+          "date": "2026-07-20",
+          "current_value": "9.89",
+          "venal_value": "11.92"
+        },
+        {
+          "installment_number": "76",
+          "date": "2026-08-20",
+          "current_value": "9.70",
+          "venal_value": "11.72"
+        },
+        {
+          "installment_number": "77",
+          "date": "2026-09-20",
+          "current_value": "9.52",
+          "venal_value": "11.52"
+        },
+        {
+          "installment_number": "78",
+          "date": "2026-10-20",
+          "current_value": "9.33",
+          "venal_value": "11.33"
+        },
+        {
+          "installment_number": "79",
+          "date": "2026-11-20",
+          "current_value": "9.15",
+          "venal_value": "11.13"
+        },
+        {
+          "installment_number": "80",
+          "date": "2026-12-20",
+          "current_value": "8.97",
+          "venal_value": "10.95"
+        },
+        {
+          "installment_number": "81",
+          "date": "2027-01-20",
+          "current_value": "8.80",
+          "venal_value": "10.76"
+        },
+        {
+          "installment_number": "82",
+          "date": "2027-02-20",
+          "current_value": "8.63",
+          "venal_value": "10.58"
+        },
+        {
+          "installment_number": "83",
+          "date": "2027-03-20",
+          "current_value": "8.46",
+          "venal_value": "10.40"
+        },
+        {
+          "installment_number": "84",
+          "date": "2027-04-20",
+          "current_value": "8.30",
+          "venal_value": "10.22"
+        },
+        {
+          "installment_number": "85",
+          "date": "2027-05-20",
+          "current_value": "8.14",
+          "venal_value": "10.05"
+        },
+        {
+          "installment_number": "86",
+          "date": "2027-06-20",
+          "current_value": "7.98",
+          "venal_value": "9.88"
+        },
+        {
+          "installment_number": "87",
+          "date": "2027-07-20",
+          "current_value": "7.83",
+          "venal_value": "9.72"
+        },
+        {
+          "installment_number": "88",
+          "date": "2027-08-20",
+          "current_value": "7.68",
+          "venal_value": "9.55"
+        },
+        {
+          "installment_number": "89",
+          "date": "2027-09-20",
+          "current_value": "7.53",
+          "venal_value": "9.39"
+        },
+        {
+          "installment_number": "90",
+          "date": "2027-10-20",
+          "current_value": "7.38",
+          "venal_value": "9.23"
+        },
+        {
+          "installment_number": "91",
+          "date": "2027-11-20",
+          "current_value": "7.24",
+          "venal_value": "9.08"
+        },
+        {
+          "installment_number": "92",
+          "date": "2027-12-20",
+          "current_value": "7.10",
+          "venal_value": "8.92"
+        },
+        {
+          "installment_number": "93",
+          "date": "2028-01-20",
+          "current_value": "6.96",
+          "venal_value": "8.77"
+        },
+        {
+          "installment_number": "94",
+          "date": "2028-02-20",
+          "current_value": "6.83",
+          "venal_value": "8.62"
+        },
+        {
+          "installment_number": "95",
+          "date": "2028-03-20",
+          "current_value": "6.70",
+          "venal_value": "8.48"
+        },
+        {
+          "installment_number": "96",
+          "date": "2028-04-20",
+          "current_value": "6.57",
+          "venal_value": "8.33"
+        }
+      ]
+    }
+  },
+  {
+    "address": "DEA COFAL 713",
+    "iof": "0",
+    "rate_advance": "",
+    "percent_comission": "",
+    "date_birth": "1976-06-17 00:00:00",
+    "amount": "17865.38",
+    "last_due": "2028-04-20 00:00:00",
+    "document_number": "677.242.640-15",
+    "liquid_amount": "4375.79",
+    "sales_date": "2020-04-09",
+    "contract": "289021",
+    "portion": "419.12",
+    "index": 2,
+    "operation_date": "2020-04-08 00:00:00",
+    "zip_code": "91760-020",
+    "associated_tax": "1335.11",
+    "contract_date": "2020-04-08 00:00:00",
+    "installments": "96",
+    "first_due": "2020-05-20 00:00:00",
+    "comission": "1715.08",
+    "name": "LUIS FABIANO ALMEIDA DE LIMA",
+    "discharge": "12154.48",
+    "contract_rate": "26.38",
+    "final_amount": "40235.52",
+    "values": {
+      "current_value": "17888.63",
+      "venal_value": "19527.81",
+      "portion": "419.15",
+      "annual_rate": "26.3800",
+      "installments": [
+        {
+          "installment_number": "1",
+          "date": "2020-05-20",
+          "current_value": "408.38",
+          "venal_value": "409.73"
+        },
+        {
+          "installment_number": "2",
+          "date": "2020-06-20",
+          "current_value": "400.49",
+          "venal_value": "402.81"
+        },
+        {
+          "installment_number": "3",
+          "date": "2020-07-20",
+          "current_value": "392.75",
+          "venal_value": "396.00"
+        },
+        {
+          "installment_number": "4",
+          "date": "2020-08-20",
+          "current_value": "385.17",
+          "venal_value": "389.31"
+        },
+        {
+          "installment_number": "5",
+          "date": "2020-09-20",
+          "current_value": "377.72",
+          "venal_value": "382.74"
+        },
+        {
+          "installment_number": "6",
+          "date": "2020-10-20",
+          "current_value": "370.43",
+          "venal_value": "376.27"
+        },
+        {
+          "installment_number": "7",
+          "date": "2020-11-20",
+          "current_value": "363.27",
+          "venal_value": "369.91"
+        },
+        {
+          "installment_number": "8",
+          "date": "2020-12-20",
+          "current_value": "356.25",
+          "venal_value": "363.66"
+        },
+        {
+          "installment_number": "9",
+          "date": "2021-01-20",
+          "current_value": "349.37",
+          "venal_value": "357.52"
+        },
+        {
+          "installment_number": "10",
+          "date": "2021-02-20",
+          "current_value": "342.62",
+          "venal_value": "351.48"
+        },
+        {
+          "installment_number": "11",
+          "date": "2021-03-20",
+          "current_value": "336.00",
+          "venal_value": "345.54"
+        },
+        {
+          "installment_number": "12",
+          "date": "2021-04-20",
+          "current_value": "329.51",
+          "venal_value": "339.70"
+        },
+        {
+          "installment_number": "13",
+          "date": "2021-05-20",
+          "current_value": "323.14",
+          "venal_value": "333.97"
+        },
+        {
+          "installment_number": "14",
+          "date": "2021-06-20",
+          "current_value": "316.90",
+          "venal_value": "328.32"
+        },
+        {
+          "installment_number": "15",
+          "date": "2021-07-20",
+          "current_value": "310.77",
+          "venal_value": "322.78"
+        },
+        {
+          "installment_number": "16",
+          "date": "2021-08-20",
+          "current_value": "304.77",
+          "venal_value": "317.32"
+        },
+        {
+          "installment_number": "17",
+          "date": "2021-09-20",
+          "current_value": "298.88",
+          "venal_value": "311.96"
+        },
+        {
+          "installment_number": "18",
+          "date": "2021-10-20",
+          "current_value": "293.11",
+          "venal_value": "306.69"
+        },
+        {
+          "installment_number": "19",
+          "date": "2021-11-20",
+          "current_value": "287.44",
+          "venal_value": "301.51"
+        },
+        {
+          "installment_number": "20",
+          "date": "2021-12-20",
+          "current_value": "281.89",
+          "venal_value": "296.42"
+        },
+        {
+          "installment_number": "21",
+          "date": "2022-01-20",
+          "current_value": "276.44",
+          "venal_value": "291.41"
+        },
+        {
+          "installment_number": "22",
+          "date": "2022-02-20",
+          "current_value": "271.10",
+          "venal_value": "286.49"
+        },
+        {
+          "installment_number": "23",
+          "date": "2022-03-20",
+          "current_value": "265.86",
+          "venal_value": "281.65"
+        },
+        {
+          "installment_number": "24",
+          "date": "2022-04-20",
+          "current_value": "260.73",
+          "venal_value": "276.89"
+        },
+        {
+          "installment_number": "25",
+          "date": "2022-05-20",
+          "current_value": "255.69",
+          "venal_value": "272.21"
+        },
+        {
+          "installment_number": "26",
+          "date": "2022-06-20",
+          "current_value": "250.75",
+          "venal_value": "267.61"
+        },
+        {
+          "installment_number": "27",
+          "date": "2022-07-20",
+          "current_value": "245.90",
+          "venal_value": "263.09"
+        },
+        {
+          "installment_number": "28",
+          "date": "2022-08-20",
+          "current_value": "241.15",
+          "venal_value": "258.64"
+        },
+        {
+          "installment_number": "29",
+          "date": "2022-09-20",
+          "current_value": "236.49",
+          "venal_value": "254.28"
+        },
+        {
+          "installment_number": "30",
+          "date": "2022-10-20",
+          "current_value": "231.92",
+          "venal_value": "249.98"
+        },
+        {
+          "installment_number": "31",
+          "date": "2022-11-20",
+          "current_value": "227.44",
+          "venal_value": "245.76"
+        },
+        {
+          "installment_number": "32",
+          "date": "2022-12-20",
+          "current_value": "223.05",
+          "venal_value": "241.60"
+        },
+        {
+          "installment_number": "33",
+          "date": "2023-01-20",
+          "current_value": "218.74",
+          "venal_value": "237.52"
+        },
+        {
+          "installment_number": "34",
+          "date": "2023-02-20",
+          "current_value": "214.51",
+          "venal_value": "233.51"
+        },
+        {
+          "installment_number": "35",
+          "date": "2023-03-20",
+          "current_value": "210.37",
+          "venal_value": "229.56"
+        },
+        {
+          "installment_number": "36",
+          "date": "2023-04-20",
+          "current_value": "206.30",
+          "venal_value": "225.69"
+        },
+        {
+          "installment_number": "37",
+          "date": "2023-05-20",
+          "current_value": "202.32",
+          "venal_value": "221.87"
+        },
+        {
+          "installment_number": "38",
+          "date": "2023-06-20",
+          "current_value": "198.41",
+          "venal_value": "218.13"
+        },
+        {
+          "installment_number": "39",
+          "date": "2023-07-20",
+          "current_value": "194.57",
+          "venal_value": "214.44"
+        },
+        {
+          "installment_number": "40",
+          "date": "2023-08-20",
+          "current_value": "190.82",
+          "venal_value": "210.82"
+        },
+        {
+          "installment_number": "41",
+          "date": "2023-09-20",
+          "current_value": "187.13",
+          "venal_value": "207.26"
+        },
+        {
+          "installment_number": "42",
+          "date": "2023-10-20",
+          "current_value": "183.51",
+          "venal_value": "203.75"
+        },
+        {
+          "installment_number": "43",
+          "date": "2023-11-20",
+          "current_value": "179.97",
+          "venal_value": "200.31"
+        },
+        {
+          "installment_number": "44",
+          "date": "2023-12-20",
+          "current_value": "176.49",
+          "venal_value": "196.93"
+        },
+        {
+          "installment_number": "45",
+          "date": "2024-01-20",
+          "current_value": "173.08",
+          "venal_value": "193.60"
+        },
+        {
+          "installment_number": "46",
+          "date": "2024-02-20",
+          "current_value": "169.74",
+          "venal_value": "190.33"
+        },
+        {
+          "installment_number": "47",
+          "date": "2024-03-20",
+          "current_value": "166.46",
+          "venal_value": "187.11"
+        },
+        {
+          "installment_number": "48",
+          "date": "2024-04-20",
+          "current_value": "163.24",
+          "venal_value": "183.95"
+        },
+        {
+          "installment_number": "49",
+          "date": "2024-05-20",
+          "current_value": "160.09",
+          "venal_value": "180.85"
+        },
+        {
+          "installment_number": "50",
+          "date": "2024-06-20",
+          "current_value": "156.99",
+          "venal_value": "177.79"
+        },
+        {
+          "installment_number": "51",
+          "date": "2024-07-20",
+          "current_value": "153.96",
+          "venal_value": "174.79"
+        },
+        {
+          "installment_number": "52",
+          "date": "2024-08-20",
+          "current_value": "150.99",
+          "venal_value": "171.83"
+        },
+        {
+          "installment_number": "53",
+          "date": "2024-09-20",
+          "current_value": "148.07",
+          "venal_value": "168.93"
+        },
+        {
+          "installment_number": "54",
+          "date": "2024-10-20",
+          "current_value": "145.21",
+          "venal_value": "166.08"
+        },
+        {
+          "installment_number": "55",
+          "date": "2024-11-20",
+          "current_value": "142.40",
+          "venal_value": "163.27"
+        },
+        {
+          "installment_number": "56",
+          "date": "2024-12-20",
+          "current_value": "139.65",
+          "venal_value": "160.51"
+        },
+        {
+          "installment_number": "57",
+          "date": "2025-01-20",
+          "current_value": "136.95",
+          "venal_value": "157.80"
+        },
+        {
+          "installment_number": "58",
+          "date": "2025-02-20",
+          "current_value": "134.31",
+          "venal_value": "155.13"
+        },
+        {
+          "installment_number": "59",
+          "date": "2025-03-20",
+          "current_value": "131.71",
+          "venal_value": "152.51"
+        },
+        {
+          "installment_number": "60",
+          "date": "2025-04-20",
+          "current_value": "129.17",
+          "venal_value": "149.94"
+        },
+        {
+          "installment_number": "61",
+          "date": "2025-05-20",
+          "current_value": "126.67",
+          "venal_value": "147.40"
+        },
+        {
+          "installment_number": "62",
+          "date": "2025-06-20",
+          "current_value": "124.22",
+          "venal_value": "144.91"
+        },
+        {
+          "installment_number": "63",
+          "date": "2025-07-20",
+          "current_value": "121.82",
+          "venal_value": "142.47"
+        },
+        {
+          "installment_number": "64",
+          "date": "2025-08-20",
+          "current_value": "119.47",
+          "venal_value": "140.06"
+        },
+        {
+          "installment_number": "65",
+          "date": "2025-09-20",
+          "current_value": "117.16",
+          "venal_value": "137.69"
+        },
+        {
+          "installment_number": "66",
+          "date": "2025-10-20",
+          "current_value": "114.90",
+          "venal_value": "135.37"
+        },
+        {
+          "installment_number": "67",
+          "date": "2025-11-20",
+          "current_value": "112.68",
+          "venal_value": "133.08"
+        },
+        {
+          "installment_number": "68",
+          "date": "2025-12-20",
+          "current_value": "110.50",
+          "venal_value": "130.83"
+        },
+        {
+          "installment_number": "69",
+          "date": "2026-01-20",
+          "current_value": "108.37",
+          "venal_value": "128.62"
+        },
+        {
+          "installment_number": "70",
+          "date": "2026-02-20",
+          "current_value": "106.27",
+          "venal_value": "126.45"
+        },
+        {
+          "installment_number": "71",
+          "date": "2026-03-20",
+          "current_value": "104.22",
+          "venal_value": "124.31"
+        },
+        {
+          "installment_number": "72",
+          "date": "2026-04-20",
+          "current_value": "102.20",
+          "venal_value": "122.21"
+        },
+        {
+          "installment_number": "73",
+          "date": "2026-05-20",
+          "current_value": "100.23",
+          "venal_value": "120.15"
+        },
+        {
+          "installment_number": "74",
+          "date": "2026-06-20",
+          "current_value": "98.29",
+          "venal_value": "118.12"
+        },
+        {
+          "installment_number": "75",
+          "date": "2026-07-20",
+          "current_value": "96.39",
+          "venal_value": "116.12"
+        },
+        {
+          "installment_number": "76",
+          "date": "2026-08-20",
+          "current_value": "94.53",
+          "venal_value": "114.16"
+        },
+        {
+          "installment_number": "77",
+          "date": "2026-09-20",
+          "current_value": "92.71",
+          "venal_value": "112.23"
+        },
+        {
+          "installment_number": "78",
+          "date": "2026-10-20",
+          "current_value": "90.91",
+          "venal_value": "110.33"
+        },
+        {
+          "installment_number": "79",
+          "date": "2026-11-20",
+          "current_value": "89.16",
+          "venal_value": "108.47"
+        },
+        {
+          "installment_number": "80",
+          "date": "2026-12-20",
+          "current_value": "87.43",
+          "venal_value": "106.64"
+        },
+        {
+          "installment_number": "81",
+          "date": "2027-01-20",
+          "current_value": "85.75",
+          "venal_value": "104.84"
+        },
+        {
+          "installment_number": "82",
+          "date": "2027-02-20",
+          "current_value": "84.09",
+          "venal_value": "103.07"
+        },
+        {
+          "installment_number": "83",
+          "date": "2027-03-20",
+          "current_value": "82.46",
+          "venal_value": "101.32"
+        },
+        {
+          "installment_number": "84",
+          "date": "2027-04-20",
+          "current_value": "80.87",
+          "venal_value": "99.61"
+        },
+        {
+          "installment_number": "85",
+          "date": "2027-05-20",
+          "current_value": "79.31",
+          "venal_value": "97.93"
+        },
+        {
+          "installment_number": "86",
+          "date": "2027-06-20",
+          "current_value": "77.78",
+          "venal_value": "96.28"
+        },
+        {
+          "installment_number": "87",
+          "date": "2027-07-20",
+          "current_value": "76.27",
+          "venal_value": "94.65"
+        },
+        {
+          "installment_number": "88",
+          "date": "2027-08-20",
+          "current_value": "74.80",
+          "venal_value": "93.05"
+        },
+        {
+          "installment_number": "89",
+          "date": "2027-09-20",
+          "current_value": "73.35",
+          "venal_value": "91.48"
+        },
+        {
+          "installment_number": "90",
+          "date": "2027-10-20",
+          "current_value": "71.94",
+          "venal_value": "89.93"
+        },
+        {
+          "installment_number": "91",
+          "date": "2027-11-20",
+          "current_value": "70.55",
+          "venal_value": "88.41"
+        },
+        {
+          "installment_number": "92",
+          "date": "2027-12-20",
+          "current_value": "69.18",
+          "venal_value": "86.92"
+        },
+        {
+          "installment_number": "93",
+          "date": "2028-01-20",
+          "current_value": "67.85",
+          "venal_value": "85.45"
+        },
+        {
+          "installment_number": "94",
+          "date": "2028-02-20",
+          "current_value": "66.54",
+          "venal_value": "84.01"
+        },
+        {
+          "installment_number": "95",
+          "date": "2028-03-20",
+          "current_value": "65.25",
+          "venal_value": "82.59"
+        },
+        {
+          "installment_number": "96",
+          "date": "2028-04-20",
+          "current_value": "63.99",
+          "venal_value": "81.19"
+        }
+      ]
+    }
+  },
+  {
+    "address": "AVENIDA 03  315",
+    "iof": "0",
+    "rate_advance": "",
+    "percent_comission": "",
+    "date_birth": "1948-07-12 00:00:00",
+    "amount": "7832.94",
+    "last_due": "2028-04-20 00:00:00",
+    "document_number": "105.383.642-20",
+    "liquid_amount": "367.25",
+    "sales_date": "2020-04-09",
+    "contract": "287900",
+    "portion": "183.76",
+    "index": 3,
+    "operation_date": "2020-04-08 00:00:00",
+    "zip_code": "68900-000",
+    "associated_tax": "1079.55",
+    "contract_date": "2020-04-08 00:00:00",
+    "installments": "96",
+    "first_due": "2020-05-20 00:00:00",
+    "comission": "751.96",
+    "name": "RAIMUNDA GONCALVES DA SILVA ",
+    "discharge": "6386.14",
+    "contract_rate": "26.38",
+    "final_amount": "17640.96",
+    "values": {
+      "current_value": "7843.13",
+      "venal_value": "8561.82",
+      "portion": "183.77",
+      "annual_rate": "26.3800",
+      "installments": [
+        {
+          "installment_number": "1",
+          "date": "2020-05-20",
+          "current_value": "179.05",
+          "venal_value": "179.64"
+        },
+        {
+          "installment_number": "2",
+          "date": "2020-06-20",
+          "current_value": "175.59",
+          "venal_value": "176.61"
+        },
+        {
+          "installment_number": "3",
+          "date": "2020-07-20",
+          "current_value": "172.20",
+          "venal_value": "173.62"
+        },
+        {
+          "installment_number": "4",
+          "date": "2020-08-20",
+          "current_value": "168.87",
+          "venal_value": "170.69"
+        },
+        {
+          "installment_number": "5",
+          "date": "2020-09-20",
+          "current_value": "165.61",
+          "venal_value": "167.81"
+        },
+        {
+          "installment_number": "6",
+          "date": "2020-10-20",
+          "current_value": "162.41",
+          "venal_value": "164.97"
+        },
+        {
+          "installment_number": "7",
+          "date": "2020-11-20",
+          "current_value": "159.27",
+          "venal_value": "162.19"
+        },
+        {
+          "installment_number": "8",
+          "date": "2020-12-20",
+          "current_value": "156.20",
+          "venal_value": "159.45"
+        },
+        {
+          "installment_number": "9",
+          "date": "2021-01-20",
+          "current_value": "153.18",
+          "venal_value": "156.75"
+        },
+        {
+          "installment_number": "10",
+          "date": "2021-02-20",
+          "current_value": "150.22",
+          "venal_value": "154.10"
+        },
+        {
+          "installment_number": "11",
+          "date": "2021-03-20",
+          "current_value": "147.32",
+          "venal_value": "151.50"
+        },
+        {
+          "installment_number": "12",
+          "date": "2021-04-20",
+          "current_value": "144.47",
+          "venal_value": "148.94"
+        },
+        {
+          "installment_number": "13",
+          "date": "2021-05-20",
+          "current_value": "141.68",
+          "venal_value": "146.42"
+        },
+        {
+          "installment_number": "14",
+          "date": "2021-06-20",
+          "current_value": "138.94",
+          "venal_value": "143.95"
+        },
+        {
+          "installment_number": "15",
+          "date": "2021-07-20",
+          "current_value": "136.26",
+          "venal_value": "141.52"
+        },
+        {
+          "installment_number": "16",
+          "date": "2021-08-20",
+          "current_value": "133.62",
+          "venal_value": "139.13"
+        },
+        {
+          "installment_number": "17",
+          "date": "2021-09-20",
+          "current_value": "131.04",
+          "venal_value": "136.78"
+        },
+        {
+          "installment_number": "18",
+          "date": "2021-10-20",
+          "current_value": "128.51",
+          "venal_value": "134.47"
+        },
+        {
+          "installment_number": "19",
+          "date": "2021-11-20",
+          "current_value": "126.03",
+          "venal_value": "132.19"
+        },
+        {
+          "installment_number": "20",
+          "date": "2021-12-20",
+          "current_value": "123.59",
+          "venal_value": "129.96"
+        },
+        {
+          "installment_number": "21",
+          "date": "2022-01-20",
+          "current_value": "121.20",
+          "venal_value": "127.77"
+        },
+        {
+          "installment_number": "22",
+          "date": "2022-02-20",
+          "current_value": "118.86",
+          "venal_value": "125.61"
+        },
+        {
+          "installment_number": "23",
+          "date": "2022-03-20",
+          "current_value": "116.57",
+          "venal_value": "123.49"
+        },
+        {
+          "installment_number": "24",
+          "date": "2022-04-20",
+          "current_value": "114.31",
+          "venal_value": "121.40"
+        },
+        {
+          "installment_number": "25",
+          "date": "2022-05-20",
+          "current_value": "112.10",
+          "venal_value": "119.35"
+        },
+        {
+          "installment_number": "26",
+          "date": "2022-06-20",
+          "current_value": "109.94",
+          "venal_value": "117.33"
+        },
+        {
+          "installment_number": "27",
+          "date": "2022-07-20",
+          "current_value": "107.81",
+          "venal_value": "115.35"
+        },
+        {
+          "installment_number": "28",
+          "date": "2022-08-20",
+          "current_value": "105.73",
+          "venal_value": "113.40"
+        },
+        {
+          "installment_number": "29",
+          "date": "2022-09-20",
+          "current_value": "103.69",
+          "venal_value": "111.49"
+        },
+        {
+          "installment_number": "30",
+          "date": "2022-10-20",
+          "current_value": "101.69",
+          "venal_value": "109.60"
+        },
+        {
+          "installment_number": "31",
+          "date": "2022-11-20",
+          "current_value": "99.72",
+          "venal_value": "107.75"
+        },
+        {
+          "installment_number": "32",
+          "date": "2022-12-20",
+          "current_value": "97.79",
+          "venal_value": "105.93"
+        },
+        {
+          "installment_number": "33",
+          "date": "2023-01-20",
+          "current_value": "95.90",
+          "venal_value": "104.14"
+        },
+        {
+          "installment_number": "34",
+          "date": "2023-02-20",
+          "current_value": "94.05",
+          "venal_value": "102.38"
+        },
+        {
+          "installment_number": "35",
+          "date": "2023-03-20",
+          "current_value": "92.23",
+          "venal_value": "100.65"
+        },
+        {
+          "installment_number": "36",
+          "date": "2023-04-20",
+          "current_value": "90.45",
+          "venal_value": "98.95"
+        },
+        {
+          "installment_number": "37",
+          "date": "2023-05-20",
+          "current_value": "88.70",
+          "venal_value": "97.28"
+        },
+        {
+          "installment_number": "38",
+          "date": "2023-06-20",
+          "current_value": "86.99",
+          "venal_value": "95.64"
+        },
+        {
+          "installment_number": "39",
+          "date": "2023-07-20",
+          "current_value": "85.31",
+          "venal_value": "94.02"
+        },
+        {
+          "installment_number": "40",
+          "date": "2023-08-20",
+          "current_value": "83.66",
+          "venal_value": "92.43"
+        },
+        {
+          "installment_number": "41",
+          "date": "2023-09-20",
+          "current_value": "82.05",
+          "venal_value": "90.87"
+        },
+        {
+          "installment_number": "42",
+          "date": "2023-10-20",
+          "current_value": "80.46",
+          "venal_value": "89.33"
+        },
+        {
+          "installment_number": "43",
+          "date": "2023-11-20",
+          "current_value": "78.91",
+          "venal_value": "87.83"
+        },
+        {
+          "installment_number": "44",
+          "date": "2023-12-20",
+          "current_value": "77.38",
+          "venal_value": "86.34"
+        },
+        {
+          "installment_number": "45",
+          "date": "2024-01-20",
+          "current_value": "75.89",
+          "venal_value": "84.88"
+        },
+        {
+          "installment_number": "46",
+          "date": "2024-02-20",
+          "current_value": "74.42",
+          "venal_value": "83.45"
+        },
+        {
+          "installment_number": "47",
+          "date": "2024-03-20",
+          "current_value": "72.98",
+          "venal_value": "82.04"
+        },
+        {
+          "installment_number": "48",
+          "date": "2024-04-20",
+          "current_value": "71.57",
+          "venal_value": "80.65"
+        },
+        {
+          "installment_number": "49",
+          "date": "2024-05-20",
+          "current_value": "70.19",
+          "venal_value": "79.29"
+        },
+        {
+          "installment_number": "50",
+          "date": "2024-06-20",
+          "current_value": "68.83",
+          "venal_value": "77.95"
+        },
+        {
+          "installment_number": "51",
+          "date": "2024-07-20",
+          "current_value": "67.50",
+          "venal_value": "76.63"
+        },
+        {
+          "installment_number": "52",
+          "date": "2024-08-20",
+          "current_value": "66.20",
+          "venal_value": "75.34"
+        },
+        {
+          "installment_number": "53",
+          "date": "2024-09-20",
+          "current_value": "64.92",
+          "venal_value": "74.07"
+        },
+        {
+          "installment_number": "54",
+          "date": "2024-10-20",
+          "current_value": "63.67",
+          "venal_value": "72.82"
+        },
+        {
+          "installment_number": "55",
+          "date": "2024-11-20",
+          "current_value": "62.43",
+          "venal_value": "71.58"
+        },
+        {
+          "installment_number": "56",
+          "date": "2024-12-20",
+          "current_value": "61.23",
+          "venal_value": "70.38"
+        },
+        {
+          "installment_number": "57",
+          "date": "2025-01-20",
+          "current_value": "60.05",
+          "venal_value": "69.19"
+        },
+        {
+          "installment_number": "58",
+          "date": "2025-02-20",
+          "current_value": "58.89",
+          "venal_value": "68.02"
+        },
+        {
+          "installment_number": "59",
+          "date": "2025-03-20",
+          "current_value": "57.75",
+          "venal_value": "66.87"
+        },
+        {
+          "installment_number": "60",
+          "date": "2025-04-20",
+          "current_value": "56.63",
+          "venal_value": "65.74"
+        },
+        {
+          "installment_number": "61",
+          "date": "2025-05-20",
+          "current_value": "55.54",
+          "venal_value": "64.63"
+        },
+        {
+          "installment_number": "62",
+          "date": "2025-06-20",
+          "current_value": "54.46",
+          "venal_value": "63.54"
+        },
+        {
+          "installment_number": "63",
+          "date": "2025-07-20",
+          "current_value": "53.41",
+          "venal_value": "62.46"
+        },
+        {
+          "installment_number": "64",
+          "date": "2025-08-20",
+          "current_value": "52.38",
+          "venal_value": "61.41"
+        },
+        {
+          "installment_number": "65",
+          "date": "2025-09-20",
+          "current_value": "51.37",
+          "venal_value": "60.37"
+        },
+        {
+          "installment_number": "66",
+          "date": "2025-10-20",
+          "current_value": "50.38",
+          "venal_value": "59.35"
+        },
+        {
+          "installment_number": "67",
+          "date": "2025-11-20",
+          "current_value": "49.40",
+          "venal_value": "58.35"
+        },
+        {
+          "installment_number": "68",
+          "date": "2025-12-20",
+          "current_value": "48.45",
+          "venal_value": "57.36"
+        },
+        {
+          "installment_number": "69",
+          "date": "2026-01-20",
+          "current_value": "47.51",
+          "venal_value": "56.39"
+        },
+        {
+          "installment_number": "70",
+          "date": "2026-02-20",
+          "current_value": "46.59",
+          "venal_value": "55.44"
+        },
+        {
+          "installment_number": "71",
+          "date": "2026-03-20",
+          "current_value": "45.69",
+          "venal_value": "54.50"
+        },
+        {
+          "installment_number": "72",
+          "date": "2026-04-20",
+          "current_value": "44.81",
+          "venal_value": "53.58"
+        },
+        {
+          "installment_number": "73",
+          "date": "2026-05-20",
+          "current_value": "43.95",
+          "venal_value": "52.68"
+        },
+        {
+          "installment_number": "74",
+          "date": "2026-06-20",
+          "current_value": "43.10",
+          "venal_value": "51.79"
+        },
+        {
+          "installment_number": "75",
+          "date": "2026-07-20",
+          "current_value": "42.26",
+          "venal_value": "50.91"
+        },
+        {
+          "installment_number": "76",
+          "date": "2026-08-20",
+          "current_value": "41.45",
+          "venal_value": "50.05"
+        },
+        {
+          "installment_number": "77",
+          "date": "2026-09-20",
+          "current_value": "40.65",
+          "venal_value": "49.21"
+        },
+        {
+          "installment_number": "78",
+          "date": "2026-10-20",
+          "current_value": "39.86",
+          "venal_value": "48.38"
+        },
+        {
+          "installment_number": "79",
+          "date": "2026-11-20",
+          "current_value": "39.09",
+          "venal_value": "47.56"
+        },
+        {
+          "installment_number": "80",
+          "date": "2026-12-20",
+          "current_value": "38.34",
+          "venal_value": "46.75"
+        },
+        {
+          "installment_number": "81",
+          "date": "2027-01-20",
+          "current_value": "37.59",
+          "venal_value": "45.96"
+        },
+        {
+          "installment_number": "82",
+          "date": "2027-02-20",
+          "current_value": "36.87",
+          "venal_value": "45.19"
+        },
+        {
+          "installment_number": "83",
+          "date": "2027-03-20",
+          "current_value": "36.16",
+          "venal_value": "44.42"
+        },
+        {
+          "installment_number": "84",
+          "date": "2027-04-20",
+          "current_value": "35.46",
+          "venal_value": "43.67"
+        },
+        {
+          "installment_number": "85",
+          "date": "2027-05-20",
+          "current_value": "34.77",
+          "venal_value": "42.94"
+        },
+        {
+          "installment_number": "86",
+          "date": "2027-06-20",
+          "current_value": "34.10",
+          "venal_value": "42.21"
+        },
+        {
+          "installment_number": "87",
+          "date": "2027-07-20",
+          "current_value": "33.44",
+          "venal_value": "41.50"
+        },
+        {
+          "installment_number": "88",
+          "date": "2027-08-20",
+          "current_value": "32.80",
+          "venal_value": "40.80"
+        },
+        {
+          "installment_number": "89",
+          "date": "2027-09-20",
+          "current_value": "32.16",
+          "venal_value": "40.11"
+        },
+        {
+          "installment_number": "90",
+          "date": "2027-10-20",
+          "current_value": "31.54",
+          "venal_value": "39.43"
+        },
+        {
+          "installment_number": "91",
+          "date": "2027-11-20",
+          "current_value": "30.93",
+          "venal_value": "38.76"
+        },
+        {
+          "installment_number": "92",
+          "date": "2027-12-20",
+          "current_value": "30.33",
+          "venal_value": "38.11"
+        },
+        {
+          "installment_number": "93",
+          "date": "2028-01-20",
+          "current_value": "29.75",
+          "venal_value": "37.47"
+        },
+        {
+          "installment_number": "94",
+          "date": "2028-02-20",
+          "current_value": "29.17",
+          "venal_value": "36.83"
+        },
+        {
+          "installment_number": "95",
+          "date": "2028-03-20",
+          "current_value": "28.61",
+          "venal_value": "36.21"
+        },
+        {
+          "installment_number": "96",
+          "date": "2028-04-20",
+          "current_value": "28.06",
+          "venal_value": "35.60"
+        }
+      ]
+    }
+  },
+  {
+    "address": "S\u00c3O FELIX DO PIAU 360",
+    "iof": "0",
+    "rate_advance": "",
+    "percent_comission": "",
+    "date_birth": "1958-12-10 00:00:00",
+    "amount": "1768.98",
+    "last_due": "2028-04-20 00:00:00",
+    "document_number": "949.961.308-06",
+    "liquid_amount": "748.83",
+    "sales_date": "2020-04-09",
+    "contract": "291306",
+    "portion": "41.50",
+    "index": 4,
+    "operation_date": "2020-04-08 00:00:00",
+    "zip_code": "08295-030",
+    "associated_tax": "132.20",
+    "contract_date": "2020-04-08 00:00:00",
+    "installments": "96",
+    "first_due": "2020-05-20 00:00:00",
+    "comission": "169.82",
+    "name": "ELIZEU DA SILVA",
+    "discharge": "887.95",
+    "contract_rate": "26.38",
+    "final_amount": "3984.00",
+    "values": {
+      "current_value": "1771.28",
+      "venal_value": "1933.59",
+      "portion": "41.50",
+      "annual_rate": "26.3800",
+      "installments": [
+        {
+          "installment_number": "1",
+          "date": "2020-05-20",
+          "current_value": "40.44",
+          "venal_value": "40.57"
+        },
+        {
+          "installment_number": "2",
+          "date": "2020-06-20",
+          "current_value": "39.66",
+          "venal_value": "39.89"
+        },
+        {
+          "installment_number": "3",
+          "date": "2020-07-20",
+          "current_value": "38.89",
+          "venal_value": "39.21"
+        },
+        {
+          "installment_number": "4",
+          "date": "2020-08-20",
+          "current_value": "38.14",
+          "venal_value": "38.55"
+        },
+        {
+          "installment_number": "5",
+          "date": "2020-09-20",
+          "current_value": "37.40",
+          "venal_value": "37.90"
+        },
+        {
+          "installment_number": "6",
+          "date": "2020-10-20",
+          "current_value": "36.68",
+          "venal_value": "37.26"
+        },
+        {
+          "installment_number": "7",
+          "date": "2020-11-20",
+          "current_value": "35.97",
+          "venal_value": "36.63"
+        },
+        {
+          "installment_number": "8",
+          "date": "2020-12-20",
+          "current_value": "35.27",
+          "venal_value": "36.01"
+        },
+        {
+          "installment_number": "9",
+          "date": "2021-01-20",
+          "current_value": "34.59",
+          "venal_value": "35.40"
+        },
+        {
+          "installment_number": "10",
+          "date": "2021-02-20",
+          "current_value": "33.92",
+          "venal_value": "34.80"
+        },
+        {
+          "installment_number": "11",
+          "date": "2021-03-20",
+          "current_value": "33.27",
+          "venal_value": "34.21"
+        },
+        {
+          "installment_number": "12",
+          "date": "2021-04-20",
+          "current_value": "32.63",
+          "venal_value": "33.64"
+        },
+        {
+          "installment_number": "13",
+          "date": "2021-05-20",
+          "current_value": "32.00",
+          "venal_value": "33.07"
+        },
+        {
+          "installment_number": "14",
+          "date": "2021-06-20",
+          "current_value": "31.38",
+          "venal_value": "32.51"
+        },
+        {
+          "installment_number": "15",
+          "date": "2021-07-20",
+          "current_value": "30.77",
+          "venal_value": "31.96"
+        },
+        {
+          "installment_number": "16",
+          "date": "2021-08-20",
+          "current_value": "30.18",
+          "venal_value": "31.42"
+        },
+        {
+          "installment_number": "17",
+          "date": "2021-09-20",
+          "current_value": "29.59",
+          "venal_value": "30.89"
+        },
+        {
+          "installment_number": "18",
+          "date": "2021-10-20",
+          "current_value": "29.02",
+          "venal_value": "30.37"
+        },
+        {
+          "installment_number": "19",
+          "date": "2021-11-20",
+          "current_value": "28.46",
+          "venal_value": "29.85"
+        },
+        {
+          "installment_number": "20",
+          "date": "2021-12-20",
+          "current_value": "27.91",
+          "venal_value": "29.35"
+        },
+        {
+          "installment_number": "21",
+          "date": "2022-01-20",
+          "current_value": "27.37",
+          "venal_value": "28.85"
+        },
+        {
+          "installment_number": "22",
+          "date": "2022-02-20",
+          "current_value": "26.84",
+          "venal_value": "28.37"
+        },
+        {
+          "installment_number": "23",
+          "date": "2022-03-20",
+          "current_value": "26.32",
+          "venal_value": "27.89"
+        },
+        {
+          "installment_number": "24",
+          "date": "2022-04-20",
+          "current_value": "25.82",
+          "venal_value": "27.42"
+        },
+        {
+          "installment_number": "25",
+          "date": "2022-05-20",
+          "current_value": "25.32",
+          "venal_value": "26.95"
+        },
+        {
+          "installment_number": "26",
+          "date": "2022-06-20",
+          "current_value": "24.83",
+          "venal_value": "26.50"
+        },
+        {
+          "installment_number": "27",
+          "date": "2022-07-20",
+          "current_value": "24.35",
+          "venal_value": "26.05"
+        },
+        {
+          "installment_number": "28",
+          "date": "2022-08-20",
+          "current_value": "23.88",
+          "venal_value": "25.61"
+        },
+        {
+          "installment_number": "29",
+          "date": "2022-09-20",
+          "current_value": "23.42",
+          "venal_value": "25.18"
+        },
+        {
+          "installment_number": "30",
+          "date": "2022-10-20",
+          "current_value": "22.96",
+          "venal_value": "24.75"
+        },
+        {
+          "installment_number": "31",
+          "date": "2022-11-20",
+          "current_value": "22.52",
+          "venal_value": "24.33"
+        },
+        {
+          "installment_number": "32",
+          "date": "2022-12-20",
+          "current_value": "22.09",
+          "venal_value": "23.92"
+        },
+        {
+          "installment_number": "33",
+          "date": "2023-01-20",
+          "current_value": "21.66",
+          "venal_value": "23.52"
+        },
+        {
+          "installment_number": "34",
+          "date": "2023-02-20",
+          "current_value": "21.24",
+          "venal_value": "23.12"
+        },
+        {
+          "installment_number": "35",
+          "date": "2023-03-20",
+          "current_value": "20.83",
+          "venal_value": "22.73"
+        },
+        {
+          "installment_number": "36",
+          "date": "2023-04-20",
+          "current_value": "20.43",
+          "venal_value": "22.35"
+        },
+        {
+          "installment_number": "37",
+          "date": "2023-05-20",
+          "current_value": "20.03",
+          "venal_value": "21.97"
+        },
+        {
+          "installment_number": "38",
+          "date": "2023-06-20",
+          "current_value": "19.65",
+          "venal_value": "21.60"
+        },
+        {
+          "installment_number": "39",
+          "date": "2023-07-20",
+          "current_value": "19.27",
+          "venal_value": "21.23"
+        },
+        {
+          "installment_number": "40",
+          "date": "2023-08-20",
+          "current_value": "18.89",
+          "venal_value": "20.87"
+        },
+        {
+          "installment_number": "41",
+          "date": "2023-09-20",
+          "current_value": "18.53",
+          "venal_value": "20.52"
+        },
+        {
+          "installment_number": "42",
+          "date": "2023-10-20",
+          "current_value": "18.17",
+          "venal_value": "20.18"
+        },
+        {
+          "installment_number": "43",
+          "date": "2023-11-20",
+          "current_value": "17.82",
+          "venal_value": "19.83"
+        },
+        {
+          "installment_number": "44",
+          "date": "2023-12-20",
+          "current_value": "17.48",
+          "venal_value": "19.50"
+        },
+        {
+          "installment_number": "45",
+          "date": "2024-01-20",
+          "current_value": "17.14",
+          "venal_value": "19.17"
+        },
+        {
+          "installment_number": "46",
+          "date": "2024-02-20",
+          "current_value": "16.81",
+          "venal_value": "18.85"
+        },
+        {
+          "installment_number": "47",
+          "date": "2024-03-20",
+          "current_value": "16.48",
+          "venal_value": "18.53"
+        },
+        {
+          "installment_number": "48",
+          "date": "2024-04-20",
+          "current_value": "16.16",
+          "venal_value": "18.21"
+        },
+        {
+          "installment_number": "49",
+          "date": "2024-05-20",
+          "current_value": "15.85",
+          "venal_value": "17.91"
+        },
+        {
+          "installment_number": "50",
+          "date": "2024-06-20",
+          "current_value": "15.55",
+          "venal_value": "17.60"
+        },
+        {
+          "installment_number": "51",
+          "date": "2024-07-20",
+          "current_value": "15.24",
+          "venal_value": "17.31"
+        },
+        {
+          "installment_number": "52",
+          "date": "2024-08-20",
+          "current_value": "14.95",
+          "venal_value": "17.01"
+        },
+        {
+          "installment_number": "53",
+          "date": "2024-09-20",
+          "current_value": "14.66",
+          "venal_value": "16.73"
+        },
+        {
+          "installment_number": "54",
+          "date": "2024-10-20",
+          "current_value": "14.38",
+          "venal_value": "16.44"
+        },
+        {
+          "installment_number": "55",
+          "date": "2024-11-20",
+          "current_value": "14.10",
+          "venal_value": "16.17"
+        },
+        {
+          "installment_number": "56",
+          "date": "2024-12-20",
+          "current_value": "13.83",
+          "venal_value": "15.89"
+        },
+        {
+          "installment_number": "57",
+          "date": "2025-01-20",
+          "current_value": "13.56",
+          "venal_value": "15.62"
+        },
+        {
+          "installment_number": "58",
+          "date": "2025-02-20",
+          "current_value": "13.30",
+          "venal_value": "15.36"
+        },
+        {
+          "installment_number": "59",
+          "date": "2025-03-20",
+          "current_value": "13.04",
+          "venal_value": "15.10"
+        },
+        {
+          "installment_number": "60",
+          "date": "2025-04-20",
+          "current_value": "12.79",
+          "venal_value": "14.85"
+        },
+        {
+          "installment_number": "61",
+          "date": "2025-05-20",
+          "current_value": "12.54",
+          "venal_value": "14.60"
+        },
+        {
+          "installment_number": "62",
+          "date": "2025-06-20",
+          "current_value": "12.30",
+          "venal_value": "14.35"
+        },
+        {
+          "installment_number": "63",
+          "date": "2025-07-20",
+          "current_value": "12.06",
+          "venal_value": "14.11"
+        },
+        {
+          "installment_number": "64",
+          "date": "2025-08-20",
+          "current_value": "11.83",
+          "venal_value": "13.87"
+        },
+        {
+          "installment_number": "65",
+          "date": "2025-09-20",
+          "current_value": "11.60",
+          "venal_value": "13.63"
+        },
+        {
+          "installment_number": "66",
+          "date": "2025-10-20",
+          "current_value": "11.38",
+          "venal_value": "13.40"
+        },
+        {
+          "installment_number": "67",
+          "date": "2025-11-20",
+          "current_value": "11.16",
+          "venal_value": "13.18"
+        },
+        {
+          "installment_number": "68",
+          "date": "2025-12-20",
+          "current_value": "10.94",
+          "venal_value": "12.95"
+        },
+        {
+          "installment_number": "69",
+          "date": "2026-01-20",
+          "current_value": "10.73",
+          "venal_value": "12.74"
+        },
+        {
+          "installment_number": "70",
+          "date": "2026-02-20",
+          "current_value": "10.52",
+          "venal_value": "12.52"
+        },
+        {
+          "installment_number": "71",
+          "date": "2026-03-20",
+          "current_value": "10.32",
+          "venal_value": "12.31"
+        },
+        {
+          "installment_number": "72",
+          "date": "2026-04-20",
+          "current_value": "10.12",
+          "venal_value": "12.10"
+        },
+        {
+          "installment_number": "73",
+          "date": "2026-05-20",
+          "current_value": "9.92",
+          "venal_value": "11.90"
+        },
+        {
+          "installment_number": "74",
+          "date": "2026-06-20",
+          "current_value": "9.73",
+          "venal_value": "11.70"
+        },
+        {
+          "installment_number": "75",
+          "date": "2026-07-20",
+          "current_value": "9.54",
+          "venal_value": "11.50"
+        },
+        {
+          "installment_number": "76",
+          "date": "2026-08-20",
+          "current_value": "9.36",
+          "venal_value": "11.30"
+        },
+        {
+          "installment_number": "77",
+          "date": "2026-09-20",
+          "current_value": "9.18",
+          "venal_value": "11.11"
+        },
+        {
+          "installment_number": "78",
+          "date": "2026-10-20",
+          "current_value": "9.00",
+          "venal_value": "10.93"
+        },
+        {
+          "installment_number": "79",
+          "date": "2026-11-20",
+          "current_value": "8.83",
+          "venal_value": "10.74"
+        },
+        {
+          "installment_number": "80",
+          "date": "2026-12-20",
+          "current_value": "8.66",
+          "venal_value": "10.56"
+        },
+        {
+          "installment_number": "81",
+          "date": "2027-01-20",
+          "current_value": "8.49",
+          "venal_value": "10.38"
+        },
+        {
+          "installment_number": "82",
+          "date": "2027-02-20",
+          "current_value": "8.33",
+          "venal_value": "10.21"
+        },
+        {
+          "installment_number": "83",
+          "date": "2027-03-20",
+          "current_value": "8.17",
+          "venal_value": "10.03"
+        },
+        {
+          "installment_number": "84",
+          "date": "2027-04-20",
+          "current_value": "8.01",
+          "venal_value": "9.86"
+        },
+        {
+          "installment_number": "85",
+          "date": "2027-05-20",
+          "current_value": "7.85",
+          "venal_value": "9.70"
+        },
+        {
+          "installment_number": "86",
+          "date": "2027-06-20",
+          "current_value": "7.70",
+          "venal_value": "9.53"
+        },
+        {
+          "installment_number": "87",
+          "date": "2027-07-20",
+          "current_value": "7.55",
+          "venal_value": "9.37"
+        },
+        {
+          "installment_number": "88",
+          "date": "2027-08-20",
+          "current_value": "7.41",
+          "venal_value": "9.21"
+        },
+        {
+          "installment_number": "89",
+          "date": "2027-09-20",
+          "current_value": "7.26",
+          "venal_value": "9.06"
+        },
+        {
+          "installment_number": "90",
+          "date": "2027-10-20",
+          "current_value": "7.12",
+          "venal_value": "8.90"
+        },
+        {
+          "installment_number": "91",
+          "date": "2027-11-20",
+          "current_value": "6.99",
+          "venal_value": "8.75"
+        },
+        {
+          "installment_number": "92",
+          "date": "2027-12-20",
+          "current_value": "6.85",
+          "venal_value": "8.61"
+        },
+        {
+          "installment_number": "93",
+          "date": "2028-01-20",
+          "current_value": "6.72",
+          "venal_value": "8.46"
+        },
+        {
+          "installment_number": "94",
+          "date": "2028-02-20",
+          "current_value": "6.59",
+          "venal_value": "8.32"
+        },
+        {
+          "installment_number": "95",
+          "date": "2028-03-20",
+          "current_value": "6.46",
+          "venal_value": "8.18"
+        },
+        {
+          "installment_number": "96",
+          "date": "2028-04-20",
+          "current_value": "6.34",
+          "venal_value": "8.04"
+        }
+      ]
+    }
+  },
+  {
+    "address": "R ALMIR NELSON DE ALMEIDA 281",
+    "iof": "0",
+    "rate_advance": "",
+    "percent_comission": "",
+    "date_birth": "1952-08-13 00:00:00",
+    "amount": "3672.22",
+    "last_due": "2028-04-20 00:00:00",
+    "document_number": "040.279.222-04",
+    "liquid_amount": "985.29",
+    "sales_date": "2020-04-09",
+    "contract": "290823",
+    "portion": "86.15",
+    "index": 5,
+    "operation_date": "2020-04-08 00:00:00",
+    "zip_code": "80730-390",
+    "associated_tax": "506.11",
+    "contract_date": "2020-04-08 00:00:00",
+    "installments": "96",
+    "first_due": "2020-05-20 00:00:00",
+    "comission": "352.53",
+    "name": "MARIA IVONE DE ANDRADE",
+    "discharge": "2180.82",
+    "contract_rate": "26.38",
+    "final_amount": "8270.40",
+    "values": {
+      "current_value": "3677.00",
+      "venal_value": "4013.93",
+      "portion": "86.16",
+      "annual_rate": "26.3800",
+      "installments": [
+        {
+          "installment_number": "1",
+          "date": "2020-05-20",
+          "current_value": "83.94",
+          "venal_value": "84.22"
+        },
+        {
+          "installment_number": "2",
+          "date": "2020-06-20",
+          "current_value": "82.32",
+          "venal_value": "82.80"
+        },
+        {
+          "installment_number": "3",
+          "date": "2020-07-20",
+          "current_value": "80.73",
+          "venal_value": "81.40"
+        },
+        {
+          "installment_number": "4",
+          "date": "2020-08-20",
+          "current_value": "79.17",
+          "venal_value": "80.02"
+        },
+        {
+          "installment_number": "5",
+          "date": "2020-09-20",
+          "current_value": "77.64",
+          "venal_value": "78.67"
+        },
+        {
+          "installment_number": "6",
+          "date": "2020-10-20",
+          "current_value": "76.14",
+          "venal_value": "77.34"
+        },
+        {
+          "installment_number": "7",
+          "date": "2020-11-20",
+          "current_value": "74.67",
+          "venal_value": "76.04"
+        },
+        {
+          "installment_number": "8",
+          "date": "2020-12-20",
+          "current_value": "73.23",
+          "venal_value": "74.75"
+        },
+        {
+          "installment_number": "9",
+          "date": "2021-01-20",
+          "current_value": "71.81",
+          "venal_value": "73.49"
+        },
+        {
+          "installment_number": "10",
+          "date": "2021-02-20",
+          "current_value": "70.42",
+          "venal_value": "72.25"
+        },
+        {
+          "installment_number": "11",
+          "date": "2021-03-20",
+          "current_value": "69.06",
+          "venal_value": "71.03"
+        },
+        {
+          "installment_number": "12",
+          "date": "2021-04-20",
+          "current_value": "67.73",
+          "venal_value": "69.83"
+        },
+        {
+          "installment_number": "13",
+          "date": "2021-05-20",
+          "current_value": "66.42",
+          "venal_value": "68.65"
+        },
+        {
+          "installment_number": "14",
+          "date": "2021-06-20",
+          "current_value": "65.14",
+          "venal_value": "67.49"
+        },
+        {
+          "installment_number": "15",
+          "date": "2021-07-20",
+          "current_value": "63.88",
+          "venal_value": "66.35"
+        },
+        {
+          "installment_number": "16",
+          "date": "2021-08-20",
+          "current_value": "62.64",
+          "venal_value": "65.23"
+        },
+        {
+          "installment_number": "17",
+          "date": "2021-09-20",
+          "current_value": "61.43",
+          "venal_value": "64.12"
+        },
+        {
+          "installment_number": "18",
+          "date": "2021-10-20",
+          "current_value": "60.25",
+          "venal_value": "63.04"
+        },
+        {
+          "installment_number": "19",
+          "date": "2021-11-20",
+          "current_value": "59.08",
+          "venal_value": "61.98"
+        },
+        {
+          "installment_number": "20",
+          "date": "2021-12-20",
+          "current_value": "57.94",
+          "venal_value": "60.93"
+        },
+        {
+          "installment_number": "21",
+          "date": "2022-01-20",
+          "current_value": "56.82",
+          "venal_value": "59.90"
+        },
+        {
+          "installment_number": "22",
+          "date": "2022-02-20",
+          "current_value": "55.72",
+          "venal_value": "58.89"
+        },
+        {
+          "installment_number": "23",
+          "date": "2022-03-20",
+          "current_value": "54.65",
+          "venal_value": "57.89"
+        },
+        {
+          "installment_number": "24",
+          "date": "2022-04-20",
+          "current_value": "53.59",
+          "venal_value": "56.91"
+        },
+        {
+          "installment_number": "25",
+          "date": "2022-05-20",
+          "current_value": "52.56",
+          "venal_value": "55.95"
+        },
+        {
+          "installment_number": "26",
+          "date": "2022-06-20",
+          "current_value": "51.54",
+          "venal_value": "55.01"
+        },
+        {
+          "installment_number": "27",
+          "date": "2022-07-20",
+          "current_value": "50.55",
+          "venal_value": "54.08"
+        },
+        {
+          "installment_number": "28",
+          "date": "2022-08-20",
+          "current_value": "49.57",
+          "venal_value": "53.16"
+        },
+        {
+          "installment_number": "29",
+          "date": "2022-09-20",
+          "current_value": "48.61",
+          "venal_value": "52.27"
+        },
+        {
+          "installment_number": "30",
+          "date": "2022-10-20",
+          "current_value": "47.67",
+          "venal_value": "51.38"
+        },
+        {
+          "installment_number": "31",
+          "date": "2022-11-20",
+          "current_value": "46.75",
+          "venal_value": "50.52"
+        },
+        {
+          "installment_number": "32",
+          "date": "2022-12-20",
+          "current_value": "45.85",
+          "venal_value": "49.66"
+        },
+        {
+          "installment_number": "33",
+          "date": "2023-01-20",
+          "current_value": "44.96",
+          "venal_value": "48.82"
+        },
+        {
+          "installment_number": "34",
+          "date": "2023-02-20",
+          "current_value": "44.09",
+          "venal_value": "48.00"
+        },
+        {
+          "installment_number": "35",
+          "date": "2023-03-20",
+          "current_value": "43.24",
+          "venal_value": "47.19"
+        },
+        {
+          "installment_number": "36",
+          "date": "2023-04-20",
+          "current_value": "42.41",
+          "venal_value": "46.39"
+        },
+        {
+          "installment_number": "37",
+          "date": "2023-05-20",
+          "current_value": "41.59",
+          "venal_value": "45.61"
+        },
+        {
+          "installment_number": "38",
+          "date": "2023-06-20",
+          "current_value": "40.78",
+          "venal_value": "44.84"
+        },
+        {
+          "installment_number": "39",
+          "date": "2023-07-20",
+          "current_value": "39.99",
+          "venal_value": "44.08"
+        },
+        {
+          "installment_number": "40",
+          "date": "2023-08-20",
+          "current_value": "39.22",
+          "venal_value": "43.33"
+        },
+        {
+          "installment_number": "41",
+          "date": "2023-09-20",
+          "current_value": "38.46",
+          "venal_value": "42.60"
+        },
+        {
+          "installment_number": "42",
+          "date": "2023-10-20",
+          "current_value": "37.72",
+          "venal_value": "41.88"
+        },
+        {
+          "installment_number": "43",
+          "date": "2023-11-20",
+          "current_value": "36.99",
+          "venal_value": "41.17"
+        },
+        {
+          "installment_number": "44",
+          "date": "2023-12-20",
+          "current_value": "36.28",
+          "venal_value": "40.48"
+        },
+        {
+          "installment_number": "45",
+          "date": "2024-01-20",
+          "current_value": "35.58",
+          "venal_value": "39.79"
+        },
+        {
+          "installment_number": "46",
+          "date": "2024-02-20",
+          "current_value": "34.89",
+          "venal_value": "39.12"
+        },
+        {
+          "installment_number": "47",
+          "date": "2024-03-20",
+          "current_value": "34.22",
+          "venal_value": "38.46"
+        },
+        {
+          "installment_number": "48",
+          "date": "2024-04-20",
+          "current_value": "33.55",
+          "venal_value": "37.81"
+        },
+        {
+          "installment_number": "49",
+          "date": "2024-05-20",
+          "current_value": "32.91",
+          "venal_value": "37.17"
+        },
+        {
+          "installment_number": "50",
+          "date": "2024-06-20",
+          "current_value": "32.27",
+          "venal_value": "36.54"
+        },
+        {
+          "installment_number": "51",
+          "date": "2024-07-20",
+          "current_value": "31.65",
+          "venal_value": "35.93"
+        },
+        {
+          "installment_number": "52",
+          "date": "2024-08-20",
+          "current_value": "31.03",
+          "venal_value": "35.32"
+        },
+        {
+          "installment_number": "53",
+          "date": "2024-09-20",
+          "current_value": "30.44",
+          "venal_value": "34.72"
+        },
+        {
+          "installment_number": "54",
+          "date": "2024-10-20",
+          "current_value": "29.85",
+          "venal_value": "34.14"
+        },
+        {
+          "installment_number": "55",
+          "date": "2024-11-20",
+          "current_value": "29.27",
+          "venal_value": "33.56"
+        },
+        {
+          "installment_number": "56",
+          "date": "2024-12-20",
+          "current_value": "28.71",
+          "venal_value": "32.99"
+        },
+        {
+          "installment_number": "57",
+          "date": "2025-01-20",
+          "current_value": "28.15",
+          "venal_value": "32.44"
+        },
+        {
+          "installment_number": "58",
+          "date": "2025-02-20",
+          "current_value": "27.61",
+          "venal_value": "31.89"
+        },
+        {
+          "installment_number": "59",
+          "date": "2025-03-20",
+          "current_value": "27.07",
+          "venal_value": "31.35"
+        },
+        {
+          "installment_number": "60",
+          "date": "2025-04-20",
+          "current_value": "26.55",
+          "venal_value": "30.82"
+        },
+        {
+          "installment_number": "61",
+          "date": "2025-05-20",
+          "current_value": "26.04",
+          "venal_value": "30.30"
+        },
+        {
+          "installment_number": "62",
+          "date": "2025-06-20",
+          "current_value": "25.53",
+          "venal_value": "29.79"
+        },
+        {
+          "installment_number": "63",
+          "date": "2025-07-20",
+          "current_value": "25.04",
+          "venal_value": "29.28"
+        },
+        {
+          "installment_number": "64",
+          "date": "2025-08-20",
+          "current_value": "24.56",
+          "venal_value": "28.79"
+        },
+        {
+          "installment_number": "65",
+          "date": "2025-09-20",
+          "current_value": "24.08",
+          "venal_value": "28.30"
+        },
+        {
+          "installment_number": "66",
+          "date": "2025-10-20",
+          "current_value": "23.62",
+          "venal_value": "27.82"
+        },
+        {
+          "installment_number": "67",
+          "date": "2025-11-20",
+          "current_value": "23.16",
+          "venal_value": "27.35"
+        },
+        {
+          "installment_number": "68",
+          "date": "2025-12-20",
+          "current_value": "22.71",
+          "venal_value": "26.89"
+        },
+        {
+          "installment_number": "69",
+          "date": "2026-01-20",
+          "current_value": "22.27",
+          "venal_value": "26.44"
+        },
+        {
+          "installment_number": "70",
+          "date": "2026-02-20",
+          "current_value": "21.84",
+          "venal_value": "25.99"
+        },
+        {
+          "installment_number": "71",
+          "date": "2026-03-20",
+          "current_value": "21.42",
+          "venal_value": "25.55"
+        },
+        {
+          "installment_number": "72",
+          "date": "2026-04-20",
+          "current_value": "21.01",
+          "venal_value": "25.12"
+        },
+        {
+          "installment_number": "73",
+          "date": "2026-05-20",
+          "current_value": "20.60",
+          "venal_value": "24.70"
+        },
+        {
+          "installment_number": "74",
+          "date": "2026-06-20",
+          "current_value": "20.20",
+          "venal_value": "24.28"
+        },
+        {
+          "installment_number": "75",
+          "date": "2026-07-20",
+          "current_value": "19.81",
+          "venal_value": "23.87"
+        },
+        {
+          "installment_number": "76",
+          "date": "2026-08-20",
+          "current_value": "19.43",
+          "venal_value": "23.47"
+        },
+        {
+          "installment_number": "77",
+          "date": "2026-09-20",
+          "current_value": "19.06",
+          "venal_value": "23.07"
+        },
+        {
+          "installment_number": "78",
+          "date": "2026-10-20",
+          "current_value": "18.69",
+          "venal_value": "22.68"
+        },
+        {
+          "installment_number": "79",
+          "date": "2026-11-20",
+          "current_value": "18.33",
+          "venal_value": "22.30"
+        },
+        {
+          "installment_number": "80",
+          "date": "2026-12-20",
+          "current_value": "17.97",
+          "venal_value": "21.92"
+        },
+        {
+          "installment_number": "81",
+          "date": "2027-01-20",
+          "current_value": "17.62",
+          "venal_value": "21.55"
+        },
+        {
+          "installment_number": "82",
+          "date": "2027-02-20",
+          "current_value": "17.28",
+          "venal_value": "21.19"
+        },
+        {
+          "installment_number": "83",
+          "date": "2027-03-20",
+          "current_value": "16.95",
+          "venal_value": "20.83"
+        },
+        {
+          "installment_number": "84",
+          "date": "2027-04-20",
+          "current_value": "16.62",
+          "venal_value": "20.48"
+        },
+        {
+          "installment_number": "85",
+          "date": "2027-05-20",
+          "current_value": "16.30",
+          "venal_value": "20.13"
+        },
+        {
+          "installment_number": "86",
+          "date": "2027-06-20",
+          "current_value": "15.99",
+          "venal_value": "19.79"
+        },
+        {
+          "installment_number": "87",
+          "date": "2027-07-20",
+          "current_value": "15.68",
+          "venal_value": "19.45"
+        },
+        {
+          "installment_number": "88",
+          "date": "2027-08-20",
+          "current_value": "15.38",
+          "venal_value": "19.13"
+        },
+        {
+          "installment_number": "89",
+          "date": "2027-09-20",
+          "current_value": "15.08",
+          "venal_value": "18.80"
+        },
+        {
+          "installment_number": "90",
+          "date": "2027-10-20",
+          "current_value": "14.79",
+          "venal_value": "18.49"
+        },
+        {
+          "installment_number": "91",
+          "date": "2027-11-20",
+          "current_value": "14.50",
+          "venal_value": "18.17"
+        },
+        {
+          "installment_number": "92",
+          "date": "2027-12-20",
+          "current_value": "14.22",
+          "venal_value": "17.87"
+        },
+        {
+          "installment_number": "93",
+          "date": "2028-01-20",
+          "current_value": "13.95",
+          "venal_value": "17.56"
+        },
+        {
+          "installment_number": "94",
+          "date": "2028-02-20",
+          "current_value": "13.68",
+          "venal_value": "17.27"
+        },
+        {
+          "installment_number": "95",
+          "date": "2028-03-20",
+          "current_value": "13.41",
+          "venal_value": "16.98"
+        },
+        {
+          "installment_number": "96",
+          "date": "2028-04-20",
+          "current_value": "13.15",
+          "venal_value": "16.69"
+        }
+      ]
+    }
+  },
+  {
+    "address": "RUA GENOVA  370",
+    "iof": "0",
+    "rate_advance": "",
+    "percent_comission": "",
+    "date_birth": "1953-02-17 00:00:00",
+    "amount": "7840.19",
+    "last_due": "2028-04-20 00:00:00",
+    "document_number": "267.202.057-49",
+    "liquid_amount": "1590.80",
+    "sales_date": "2020-04-09",
+    "contract": "291189",
+    "portion": "183.93",
+    "index": 6,
+    "operation_date": "2020-04-08 00:00:00",
+    "zip_code": "21640-190",
+    "associated_tax": "585.91",
+    "contract_date": "2020-04-08 00:00:00",
+    "installments": "96",
+    "first_due": "2020-05-20 00:00:00",
+    "comission": "752.66",
+    "name": "LEILA ROSA MARTINS",
+    "discharge": "5663.48",
+    "contract_rate": "26.38",
+    "final_amount": "17657.28",
+    "values": {
+      "current_value": "7850.39",
+      "venal_value": "8569.75",
+      "portion": "183.94",
+      "annual_rate": "26.3800",
+      "installments": [
+        {
+          "installment_number": "1",
+          "date": "2020-05-20",
+          "current_value": "179.22",
+          "venal_value": "179.81"
+        },
+        {
+          "installment_number": "2",
+          "date": "2020-06-20",
+          "current_value": "175.76",
+          "venal_value": "176.77"
+        },
+        {
+          "installment_number": "3",
+          "date": "2020-07-20",
+          "current_value": "172.36",
+          "venal_value": "173.79"
+        },
+        {
+          "installment_number": "4",
+          "date": "2020-08-20",
+          "current_value": "169.03",
+          "venal_value": "170.85"
+        },
+        {
+          "installment_number": "5",
+          "date": "2020-09-20",
+          "current_value": "165.76",
+          "venal_value": "167.96"
+        },
+        {
+          "installment_number": "6",
+          "date": "2020-10-20",
+          "current_value": "162.56",
+          "venal_value": "165.13"
+        },
+        {
+          "installment_number": "7",
+          "date": "2020-11-20",
+          "current_value": "159.42",
+          "venal_value": "162.34"
+        },
+        {
+          "installment_number": "8",
+          "date": "2020-12-20",
+          "current_value": "156.34",
+          "venal_value": "159.59"
+        },
+        {
+          "installment_number": "9",
+          "date": "2021-01-20",
+          "current_value": "153.32",
+          "venal_value": "156.90"
+        },
+        {
+          "installment_number": "10",
+          "date": "2021-02-20",
+          "current_value": "150.36",
+          "venal_value": "154.25"
+        },
+        {
+          "installment_number": "11",
+          "date": "2021-03-20",
+          "current_value": "147.45",
+          "venal_value": "151.64"
+        },
+        {
+          "installment_number": "12",
+          "date": "2021-04-20",
+          "current_value": "144.60",
+          "venal_value": "149.08"
+        },
+        {
+          "installment_number": "13",
+          "date": "2021-05-20",
+          "current_value": "141.81",
+          "venal_value": "146.56"
+        },
+        {
+          "installment_number": "14",
+          "date": "2021-06-20",
+          "current_value": "139.07",
+          "venal_value": "144.08"
+        },
+        {
+          "installment_number": "15",
+          "date": "2021-07-20",
+          "current_value": "136.38",
+          "venal_value": "141.65"
+        },
+        {
+          "installment_number": "16",
+          "date": "2021-08-20",
+          "current_value": "133.75",
+          "venal_value": "139.26"
+        },
+        {
+          "installment_number": "17",
+          "date": "2021-09-20",
+          "current_value": "131.16",
+          "venal_value": "136.90"
+        },
+        {
+          "installment_number": "18",
+          "date": "2021-10-20",
+          "current_value": "128.63",
+          "venal_value": "134.59"
+        },
+        {
+          "installment_number": "19",
+          "date": "2021-11-20",
+          "current_value": "126.14",
+          "venal_value": "132.32"
+        },
+        {
+          "installment_number": "20",
+          "date": "2021-12-20",
+          "current_value": "123.71",
+          "venal_value": "130.08"
+        },
+        {
+          "installment_number": "21",
+          "date": "2022-01-20",
+          "current_value": "121.32",
+          "venal_value": "127.88"
+        },
+        {
+          "installment_number": "22",
+          "date": "2022-02-20",
+          "current_value": "118.97",
+          "venal_value": "125.72"
+        },
+        {
+          "installment_number": "23",
+          "date": "2022-03-20",
+          "current_value": "116.67",
+          "venal_value": "123.60"
+        },
+        {
+          "installment_number": "24",
+          "date": "2022-04-20",
+          "current_value": "114.42",
+          "venal_value": "121.51"
+        },
+        {
+          "installment_number": "25",
+          "date": "2022-05-20",
+          "current_value": "112.21",
+          "venal_value": "119.46"
+        },
+        {
+          "installment_number": "26",
+          "date": "2022-06-20",
+          "current_value": "110.04",
+          "venal_value": "117.44"
+        },
+        {
+          "installment_number": "27",
+          "date": "2022-07-20",
+          "current_value": "107.91",
+          "venal_value": "115.46"
+        },
+        {
+          "installment_number": "28",
+          "date": "2022-08-20",
+          "current_value": "105.83",
+          "venal_value": "113.51"
+        },
+        {
+          "installment_number": "29",
+          "date": "2022-09-20",
+          "current_value": "103.78",
+          "venal_value": "111.59"
+        },
+        {
+          "installment_number": "30",
+          "date": "2022-10-20",
+          "current_value": "101.78",
+          "venal_value": "109.70"
+        },
+        {
+          "installment_number": "31",
+          "date": "2022-11-20",
+          "current_value": "99.81",
+          "venal_value": "107.85"
+        },
+        {
+          "installment_number": "32",
+          "date": "2022-12-20",
+          "current_value": "97.88",
+          "venal_value": "106.03"
+        },
+        {
+          "installment_number": "33",
+          "date": "2023-01-20",
+          "current_value": "95.99",
+          "venal_value": "104.24"
+        },
+        {
+          "installment_number": "34",
+          "date": "2023-02-20",
+          "current_value": "94.14",
+          "venal_value": "102.48"
+        },
+        {
+          "installment_number": "35",
+          "date": "2023-03-20",
+          "current_value": "92.32",
+          "venal_value": "100.74"
+        },
+        {
+          "installment_number": "36",
+          "date": "2023-04-20",
+          "current_value": "90.54",
+          "venal_value": "99.04"
+        },
+        {
+          "installment_number": "37",
+          "date": "2023-05-20",
+          "current_value": "88.79",
+          "venal_value": "97.37"
+        },
+        {
+          "installment_number": "38",
+          "date": "2023-06-20",
+          "current_value": "87.07",
+          "venal_value": "95.72"
+        },
+        {
+          "installment_number": "39",
+          "date": "2023-07-20",
+          "current_value": "85.39",
+          "venal_value": "94.11"
+        },
+        {
+          "installment_number": "40",
+          "date": "2023-08-20",
+          "current_value": "83.74",
+          "venal_value": "92.52"
+        },
+        {
+          "installment_number": "41",
+          "date": "2023-09-20",
+          "current_value": "82.12",
+          "venal_value": "90.95"
+        },
+        {
+          "installment_number": "42",
+          "date": "2023-10-20",
+          "current_value": "80.53",
+          "venal_value": "89.42"
+        },
+        {
+          "installment_number": "43",
+          "date": "2023-11-20",
+          "current_value": "78.98",
+          "venal_value": "87.91"
+        },
+        {
+          "installment_number": "44",
+          "date": "2023-12-20",
+          "current_value": "77.45",
+          "venal_value": "86.42"
+        },
+        {
+          "installment_number": "45",
+          "date": "2024-01-20",
+          "current_value": "75.96",
+          "venal_value": "84.96"
+        },
+        {
+          "installment_number": "46",
+          "date": "2024-02-20",
+          "current_value": "74.49",
+          "venal_value": "83.53"
+        },
+        {
+          "installment_number": "47",
+          "date": "2024-03-20",
+          "current_value": "73.05",
+          "venal_value": "82.11"
+        },
+        {
+          "installment_number": "48",
+          "date": "2024-04-20",
+          "current_value": "71.64",
+          "venal_value": "80.73"
+        },
+        {
+          "installment_number": "49",
+          "date": "2024-05-20",
+          "current_value": "70.25",
+          "venal_value": "79.36"
+        },
+        {
+          "installment_number": "50",
+          "date": "2024-06-20",
+          "current_value": "68.90",
+          "venal_value": "78.02"
+        },
+        {
+          "installment_number": "51",
+          "date": "2024-07-20",
+          "current_value": "67.57",
+          "venal_value": "76.70"
+        },
+        {
+          "installment_number": "52",
+          "date": "2024-08-20",
+          "current_value": "66.26",
+          "venal_value": "75.41"
+        },
+        {
+          "installment_number": "53",
+          "date": "2024-09-20",
+          "current_value": "64.98",
+          "venal_value": "74.13"
+        },
+        {
+          "installment_number": "54",
+          "date": "2024-10-20",
+          "current_value": "63.72",
+          "venal_value": "72.88"
+        },
+        {
+          "installment_number": "55",
+          "date": "2024-11-20",
+          "current_value": "62.49",
+          "venal_value": "71.65"
+        },
+        {
+          "installment_number": "56",
+          "date": "2024-12-20",
+          "current_value": "61.29",
+          "venal_value": "70.44"
+        },
+        {
+          "installment_number": "57",
+          "date": "2025-01-20",
+          "current_value": "60.10",
+          "venal_value": "69.25"
+        },
+        {
+          "installment_number": "58",
+          "date": "2025-02-20",
+          "current_value": "58.94",
+          "venal_value": "68.08"
+        },
+        {
+          "installment_number": "59",
+          "date": "2025-03-20",
+          "current_value": "57.80",
+          "venal_value": "66.93"
+        },
+        {
+          "installment_number": "60",
+          "date": "2025-04-20",
+          "current_value": "56.68",
+          "venal_value": "65.80"
+        },
+        {
+          "installment_number": "61",
+          "date": "2025-05-20",
+          "current_value": "55.59",
+          "venal_value": "64.69"
+        },
+        {
+          "installment_number": "62",
+          "date": "2025-06-20",
+          "current_value": "54.52",
+          "venal_value": "63.60"
+        },
+        {
+          "installment_number": "63",
+          "date": "2025-07-20",
+          "current_value": "53.46",
+          "venal_value": "62.52"
+        },
+        {
+          "installment_number": "64",
+          "date": "2025-08-20",
+          "current_value": "52.43",
+          "venal_value": "61.46"
+        },
+        {
+          "installment_number": "65",
+          "date": "2025-09-20",
+          "current_value": "51.42",
+          "venal_value": "60.43"
+        },
+        {
+          "installment_number": "66",
+          "date": "2025-10-20",
+          "current_value": "50.42",
+          "venal_value": "59.41"
+        },
+        {
+          "installment_number": "67",
+          "date": "2025-11-20",
+          "current_value": "49.45",
+          "venal_value": "58.40"
+        },
+        {
+          "installment_number": "68",
+          "date": "2025-12-20",
+          "current_value": "48.49",
+          "venal_value": "57.41"
+        },
+        {
+          "installment_number": "69",
+          "date": "2026-01-20",
+          "current_value": "47.56",
+          "venal_value": "56.45"
+        },
+        {
+          "installment_number": "70",
+          "date": "2026-02-20",
+          "current_value": "46.64",
+          "venal_value": "55.49"
+        },
+        {
+          "installment_number": "71",
+          "date": "2026-03-20",
+          "current_value": "45.74",
+          "venal_value": "54.55"
+        },
+        {
+          "installment_number": "72",
+          "date": "2026-04-20",
+          "current_value": "44.85",
+          "venal_value": "53.63"
+        },
+        {
+          "installment_number": "73",
+          "date": "2026-05-20",
+          "current_value": "43.99",
+          "venal_value": "52.73"
+        },
+        {
+          "installment_number": "74",
+          "date": "2026-06-20",
+          "current_value": "43.14",
+          "venal_value": "51.84"
+        },
+        {
+          "installment_number": "75",
+          "date": "2026-07-20",
+          "current_value": "42.30",
+          "venal_value": "50.96"
+        },
+        {
+          "installment_number": "76",
+          "date": "2026-08-20",
+          "current_value": "41.49",
+          "venal_value": "50.10"
+        },
+        {
+          "installment_number": "77",
+          "date": "2026-09-20",
+          "current_value": "40.68",
+          "venal_value": "49.25"
+        },
+        {
+          "installment_number": "78",
+          "date": "2026-10-20",
+          "current_value": "39.90",
+          "venal_value": "48.42"
+        },
+        {
+          "installment_number": "79",
+          "date": "2026-11-20",
+          "current_value": "39.13",
+          "venal_value": "47.60"
+        },
+        {
+          "installment_number": "80",
+          "date": "2026-12-20",
+          "current_value": "38.37",
+          "venal_value": "46.80"
+        },
+        {
+          "installment_number": "81",
+          "date": "2027-01-20",
+          "current_value": "37.63",
+          "venal_value": "46.01"
+        },
+        {
+          "installment_number": "82",
+          "date": "2027-02-20",
+          "current_value": "36.90",
+          "venal_value": "45.23"
+        },
+        {
+          "installment_number": "83",
+          "date": "2027-03-20",
+          "current_value": "36.19",
+          "venal_value": "44.47"
+        },
+        {
+          "installment_number": "84",
+          "date": "2027-04-20",
+          "current_value": "35.49",
+          "venal_value": "43.71"
+        },
+        {
+          "installment_number": "85",
+          "date": "2027-05-20",
+          "current_value": "34.80",
+          "venal_value": "42.98"
+        },
+        {
+          "installment_number": "86",
+          "date": "2027-06-20",
+          "current_value": "34.13",
+          "venal_value": "42.25"
+        },
+        {
+          "installment_number": "87",
+          "date": "2027-07-20",
+          "current_value": "33.47",
+          "venal_value": "41.54"
+        },
+        {
+          "installment_number": "88",
+          "date": "2027-08-20",
+          "current_value": "32.83",
+          "venal_value": "40.83"
+        },
+        {
+          "installment_number": "89",
+          "date": "2027-09-20",
+          "current_value": "32.19",
+          "venal_value": "40.14"
+        },
+        {
+          "installment_number": "90",
+          "date": "2027-10-20",
+          "current_value": "31.57",
+          "venal_value": "39.47"
+        },
+        {
+          "installment_number": "91",
+          "date": "2027-11-20",
+          "current_value": "30.96",
+          "venal_value": "38.80"
+        },
+        {
+          "installment_number": "92",
+          "date": "2027-12-20",
+          "current_value": "30.36",
+          "venal_value": "38.14"
+        },
+        {
+          "installment_number": "93",
+          "date": "2028-01-20",
+          "current_value": "29.77",
+          "venal_value": "37.50"
+        },
+        {
+          "installment_number": "94",
+          "date": "2028-02-20",
+          "current_value": "29.20",
+          "venal_value": "36.87"
+        },
+        {
+          "installment_number": "95",
+          "date": "2028-03-20",
+          "current_value": "28.64",
+          "venal_value": "36.24"
+        },
+        {
+          "installment_number": "96",
+          "date": "2028-04-20",
+          "current_value": "28.08",
+          "venal_value": "35.63"
+        }
+      ]
+    }
+  },
+  {
+    "address": "R BORJA REIS  659",
+    "iof": "0",
+    "rate_advance": "",
+    "percent_comission": "",
+    "date_birth": "1976-08-06 00:00:00",
+    "amount": "29821.53",
+    "last_due": "2028-04-20 00:00:00",
+    "document_number": "073.030.757-39",
+    "liquid_amount": "4521.33",
+    "sales_date": "2020-04-09",
+    "contract": "291394",
+    "portion": "699.61",
+    "index": 7,
+    "operation_date": "2020-04-08 00:00:00",
+    "zip_code": "20745-100",
+    "associated_tax": "3107.54",
+    "contract_date": "2020-04-08 00:00:00",
+    "installments": "96",
+    "first_due": "2020-05-20 00:00:00",
+    "comission": "2862.87",
+    "name": "TAILA LIMA DE BRITO",
+    "discharge": "22192.66",
+    "contract_rate": "26.38",
+    "final_amount": "67162.56",
+    "values": {
+      "current_value": "29860.34",
+      "venal_value": "32596.52",
+      "portion": "699.65",
+      "annual_rate": "26.3800",
+      "installments": [
+        {
+          "installment_number": "1",
+          "date": "2020-05-20",
+          "current_value": "681.69",
+          "venal_value": "683.94"
+        },
+        {
+          "installment_number": "2",
+          "date": "2020-06-20",
+          "current_value": "668.52",
+          "venal_value": "672.38"
+        },
+        {
+          "installment_number": "3",
+          "date": "2020-07-20",
+          "current_value": "655.60",
+          "venal_value": "661.02"
+        },
+        {
+          "installment_number": "4",
+          "date": "2020-08-20",
+          "current_value": "642.93",
+          "venal_value": "649.86"
+        },
+        {
+          "installment_number": "5",
+          "date": "2020-09-20",
+          "current_value": "630.51",
+          "venal_value": "638.88"
+        },
+        {
+          "installment_number": "6",
+          "date": "2020-10-20",
+          "current_value": "618.33",
+          "venal_value": "628.08"
+        },
+        {
+          "installment_number": "7",
+          "date": "2020-11-20",
+          "current_value": "606.38",
+          "venal_value": "617.47"
+        },
+        {
+          "installment_number": "8",
+          "date": "2020-12-20",
+          "current_value": "594.67",
+          "venal_value": "607.04"
+        },
+        {
+          "installment_number": "9",
+          "date": "2021-01-20",
+          "current_value": "583.18",
+          "venal_value": "596.79"
+        },
+        {
+          "installment_number": "10",
+          "date": "2021-02-20",
+          "current_value": "571.91",
+          "venal_value": "586.70"
+        },
+        {
+          "installment_number": "11",
+          "date": "2021-03-20",
+          "current_value": "560.86",
+          "venal_value": "576.79"
+        },
+        {
+          "installment_number": "12",
+          "date": "2021-04-20",
+          "current_value": "550.02",
+          "venal_value": "567.05"
+        },
+        {
+          "installment_number": "13",
+          "date": "2021-05-20",
+          "current_value": "539.40",
+          "venal_value": "557.47"
+        },
+        {
+          "installment_number": "14",
+          "date": "2021-06-20",
+          "current_value": "528.97",
+          "venal_value": "548.05"
+        },
+        {
+          "installment_number": "15",
+          "date": "2021-07-20",
+          "current_value": "518.75",
+          "venal_value": "538.79"
+        },
+        {
+          "installment_number": "16",
+          "date": "2021-08-20",
+          "current_value": "508.73",
+          "venal_value": "529.69"
+        },
+        {
+          "installment_number": "17",
+          "date": "2021-09-20",
+          "current_value": "498.90",
+          "venal_value": "520.74"
+        },
+        {
+          "installment_number": "18",
+          "date": "2021-10-20",
+          "current_value": "489.26",
+          "venal_value": "511.94"
+        },
+        {
+          "installment_number": "19",
+          "date": "2021-11-20",
+          "current_value": "479.81",
+          "venal_value": "503.29"
+        },
+        {
+          "installment_number": "20",
+          "date": "2021-12-20",
+          "current_value": "470.54",
+          "venal_value": "494.79"
+        },
+        {
+          "installment_number": "21",
+          "date": "2022-01-20",
+          "current_value": "461.45",
+          "venal_value": "486.43"
+        },
+        {
+          "installment_number": "22",
+          "date": "2022-02-20",
+          "current_value": "452.53",
+          "venal_value": "478.21"
+        },
+        {
+          "installment_number": "23",
+          "date": "2022-03-20",
+          "current_value": "443.79",
+          "venal_value": "470.13"
+        },
+        {
+          "installment_number": "24",
+          "date": "2022-04-20",
+          "current_value": "435.21",
+          "venal_value": "462.19"
+        },
+        {
+          "installment_number": "25",
+          "date": "2022-05-20",
+          "current_value": "426.80",
+          "venal_value": "454.38"
+        },
+        {
+          "installment_number": "26",
+          "date": "2022-06-20",
+          "current_value": "418.56",
+          "venal_value": "446.71"
+        },
+        {
+          "installment_number": "27",
+          "date": "2022-07-20",
+          "current_value": "410.47",
+          "venal_value": "439.16"
+        },
+        {
+          "installment_number": "28",
+          "date": "2022-08-20",
+          "current_value": "402.54",
+          "venal_value": "431.74"
+        },
+        {
+          "installment_number": "29",
+          "date": "2022-09-20",
+          "current_value": "394.76",
+          "venal_value": "424.45"
+        },
+        {
+          "installment_number": "30",
+          "date": "2022-10-20",
+          "current_value": "387.14",
+          "venal_value": "417.27"
+        },
+        {
+          "installment_number": "31",
+          "date": "2022-11-20",
+          "current_value": "379.66",
+          "venal_value": "410.22"
+        },
+        {
+          "installment_number": "32",
+          "date": "2022-12-20",
+          "current_value": "372.32",
+          "venal_value": "403.29"
+        },
+        {
+          "installment_number": "33",
+          "date": "2023-01-20",
+          "current_value": "365.13",
+          "venal_value": "396.48"
+        },
+        {
+          "installment_number": "34",
+          "date": "2023-02-20",
+          "current_value": "358.07",
+          "venal_value": "389.78"
+        },
+        {
+          "installment_number": "35",
+          "date": "2023-03-20",
+          "current_value": "351.15",
+          "venal_value": "383.20"
+        },
+        {
+          "installment_number": "36",
+          "date": "2023-04-20",
+          "current_value": "344.37",
+          "venal_value": "376.72"
+        },
+        {
+          "installment_number": "37",
+          "date": "2023-05-20",
+          "current_value": "337.72",
+          "venal_value": "370.36"
+        },
+        {
+          "installment_number": "38",
+          "date": "2023-06-20",
+          "current_value": "331.19",
+          "venal_value": "364.10"
+        },
+        {
+          "installment_number": "39",
+          "date": "2023-07-20",
+          "current_value": "324.79",
+          "venal_value": "357.95"
+        },
+        {
+          "installment_number": "40",
+          "date": "2023-08-20",
+          "current_value": "318.52",
+          "venal_value": "351.90"
+        },
+        {
+          "installment_number": "41",
+          "date": "2023-09-20",
+          "current_value": "312.36",
+          "venal_value": "345.96"
+        },
+        {
+          "installment_number": "42",
+          "date": "2023-10-20",
+          "current_value": "306.33",
+          "venal_value": "340.11"
+        },
+        {
+          "installment_number": "43",
+          "date": "2023-11-20",
+          "current_value": "300.41",
+          "venal_value": "334.37"
+        },
+        {
+          "installment_number": "44",
+          "date": "2023-12-20",
+          "current_value": "294.60",
+          "venal_value": "328.72"
+        },
+        {
+          "installment_number": "45",
+          "date": "2024-01-20",
+          "current_value": "288.91",
+          "venal_value": "323.17"
+        },
+        {
+          "installment_number": "46",
+          "date": "2024-02-20",
+          "current_value": "283.33",
+          "venal_value": "317.71"
+        },
+        {
+          "installment_number": "47",
+          "date": "2024-03-20",
+          "current_value": "277.86",
+          "venal_value": "312.34"
+        },
+        {
+          "installment_number": "48",
+          "date": "2024-04-20",
+          "current_value": "272.49",
+          "venal_value": "307.06"
+        },
+        {
+          "installment_number": "49",
+          "date": "2024-05-20",
+          "current_value": "267.22",
+          "venal_value": "301.87"
+        },
+        {
+          "installment_number": "50",
+          "date": "2024-06-20",
+          "current_value": "262.06",
+          "venal_value": "296.77"
+        },
+        {
+          "installment_number": "51",
+          "date": "2024-07-20",
+          "current_value": "257.00",
+          "venal_value": "291.76"
+        },
+        {
+          "installment_number": "52",
+          "date": "2024-08-20",
+          "current_value": "252.03",
+          "venal_value": "286.83"
+        },
+        {
+          "installment_number": "53",
+          "date": "2024-09-20",
+          "current_value": "247.16",
+          "venal_value": "281.98"
+        },
+        {
+          "installment_number": "54",
+          "date": "2024-10-20",
+          "current_value": "242.39",
+          "venal_value": "277.22"
+        },
+        {
+          "installment_number": "55",
+          "date": "2024-11-20",
+          "current_value": "237.70",
+          "venal_value": "272.54"
+        },
+        {
+          "installment_number": "56",
+          "date": "2024-12-20",
+          "current_value": "233.11",
+          "venal_value": "267.93"
+        },
+        {
+          "installment_number": "57",
+          "date": "2025-01-20",
+          "current_value": "228.61",
+          "venal_value": "263.41"
+        },
+        {
+          "installment_number": "58",
+          "date": "2025-02-20",
+          "current_value": "224.19",
+          "venal_value": "258.96"
+        },
+        {
+          "installment_number": "59",
+          "date": "2025-03-20",
+          "current_value": "219.86",
+          "venal_value": "254.58"
+        },
+        {
+          "installment_number": "60",
+          "date": "2025-04-20",
+          "current_value": "215.61",
+          "venal_value": "250.28"
+        },
+        {
+          "installment_number": "61",
+          "date": "2025-05-20",
+          "current_value": "211.44",
+          "venal_value": "246.05"
+        },
+        {
+          "installment_number": "62",
+          "date": "2025-06-20",
+          "current_value": "207.36",
+          "venal_value": "241.90"
+        },
+        {
+          "installment_number": "63",
+          "date": "2025-07-20",
+          "current_value": "203.35",
+          "venal_value": "237.81"
+        },
+        {
+          "installment_number": "64",
+          "date": "2025-08-20",
+          "current_value": "199.42",
+          "venal_value": "233.79"
+        },
+        {
+          "installment_number": "65",
+          "date": "2025-09-20",
+          "current_value": "195.57",
+          "venal_value": "229.84"
+        },
+        {
+          "installment_number": "66",
+          "date": "2025-10-20",
+          "current_value": "191.79",
+          "venal_value": "225.96"
+        },
+        {
+          "installment_number": "67",
+          "date": "2025-11-20",
+          "current_value": "188.09",
+          "venal_value": "222.14"
+        },
+        {
+          "installment_number": "68",
+          "date": "2025-12-20",
+          "current_value": "184.45",
+          "venal_value": "218.39"
+        },
+        {
+          "installment_number": "69",
+          "date": "2026-01-20",
+          "current_value": "180.89",
+          "venal_value": "214.70"
+        },
+        {
+          "installment_number": "70",
+          "date": "2026-02-20",
+          "current_value": "177.39",
+          "venal_value": "211.07"
+        },
+        {
+          "installment_number": "71",
+          "date": "2026-03-20",
+          "current_value": "173.96",
+          "venal_value": "207.51"
+        },
+        {
+          "installment_number": "72",
+          "date": "2026-04-20",
+          "current_value": "170.60",
+          "venal_value": "204.00"
+        },
+        {
+          "installment_number": "73",
+          "date": "2026-05-20",
+          "current_value": "167.31",
+          "venal_value": "200.55"
+        },
+        {
+          "installment_number": "74",
+          "date": "2026-06-20",
+          "current_value": "164.07",
+          "venal_value": "197.16"
+        },
+        {
+          "installment_number": "75",
+          "date": "2026-07-20",
+          "current_value": "160.90",
+          "venal_value": "193.83"
+        },
+        {
+          "installment_number": "76",
+          "date": "2026-08-20",
+          "current_value": "157.80",
+          "venal_value": "190.56"
+        },
+        {
+          "installment_number": "77",
+          "date": "2026-09-20",
+          "current_value": "154.75",
+          "venal_value": "187.34"
+        },
+        {
+          "installment_number": "78",
+          "date": "2026-10-20",
+          "current_value": "151.76",
+          "venal_value": "184.17"
+        },
+        {
+          "installment_number": "79",
+          "date": "2026-11-20",
+          "current_value": "148.83",
+          "venal_value": "181.06"
+        },
+        {
+          "installment_number": "80",
+          "date": "2026-12-20",
+          "current_value": "145.95",
+          "venal_value": "178.00"
+        },
+        {
+          "installment_number": "81",
+          "date": "2027-01-20",
+          "current_value": "143.13",
+          "venal_value": "175.00"
+        },
+        {
+          "installment_number": "82",
+          "date": "2027-02-20",
+          "current_value": "140.36",
+          "venal_value": "172.04"
+        },
+        {
+          "installment_number": "83",
+          "date": "2027-03-20",
+          "current_value": "137.65",
+          "venal_value": "169.13"
+        },
+        {
+          "installment_number": "84",
+          "date": "2027-04-20",
+          "current_value": "134.99",
+          "venal_value": "166.28"
+        },
+        {
+          "installment_number": "85",
+          "date": "2027-05-20",
+          "current_value": "132.38",
+          "venal_value": "163.47"
+        },
+        {
+          "installment_number": "86",
+          "date": "2027-06-20",
+          "current_value": "129.83",
+          "venal_value": "160.71"
+        },
+        {
+          "installment_number": "87",
+          "date": "2027-07-20",
+          "current_value": "127.32",
+          "venal_value": "157.99"
+        },
+        {
+          "installment_number": "88",
+          "date": "2027-08-20",
+          "current_value": "124.86",
+          "venal_value": "155.32"
+        },
+        {
+          "installment_number": "89",
+          "date": "2027-09-20",
+          "current_value": "122.45",
+          "venal_value": "152.70"
+        },
+        {
+          "installment_number": "90",
+          "date": "2027-10-20",
+          "current_value": "120.08",
+          "venal_value": "150.12"
+        },
+        {
+          "installment_number": "91",
+          "date": "2027-11-20",
+          "current_value": "117.76",
+          "venal_value": "147.58"
+        },
+        {
+          "installment_number": "92",
+          "date": "2027-12-20",
+          "current_value": "115.48",
+          "venal_value": "145.09"
+        },
+        {
+          "installment_number": "93",
+          "date": "2028-01-20",
+          "current_value": "113.25",
+          "venal_value": "142.64"
+        },
+        {
+          "installment_number": "94",
+          "date": "2028-02-20",
+          "current_value": "111.07",
+          "venal_value": "140.23"
+        },
+        {
+          "installment_number": "95",
+          "date": "2028-03-20",
+          "current_value": "108.92",
+          "venal_value": "137.86"
+        },
+        {
+          "installment_number": "96",
+          "date": "2028-04-20",
+          "current_value": "106.81",
+          "venal_value": "135.53"
+        }
+      ]
+    }
+  },
+  {
+    "address": "RUA ORFANATROFIO 920",
+    "iof": "0",
+    "rate_advance": "",
+    "percent_comission": "",
+    "date_birth": "1945-10-11 00:00:00",
+    "amount": "8346.07",
+    "last_due": "2027-12-20 00:00:00",
+    "document_number": "004.126.860-15",
+    "liquid_amount": "2198.80",
+    "sales_date": "2020-04-09",
+    "contract": "275203",
+    "portion": "203.69",
+    "index": 8,
+    "operation_date": "2019-11-29 00:00:00",
+    "zip_code": "90840-440",
+    "associated_tax": "1694.57",
+    "contract_date": "2019-11-29 00:00:00",
+    "installments": "96",
+    "first_due": "2020-01-20 00:00:00",
+    "comission": "876.34",
+    "name": "JOAO RAIMUNDO HOLSBACH GOMES",
+    "discharge": "4452.70",
+    "contract_rate": "26.37",
+    "final_amount": "19554.24",
+    "values": {
+      "current_value": "8494.71",
+      "venal_value": "9226.47",
+      "portion": "197.04",
+      "annual_rate": "26.3700",
+      "installments": [
+        {
+          "installment_number": "1",
+          "date": "2020-01-20",
+          "current_value": "2.00",
+          "venal_value": "0.00"
+        },
+        {
+          "installment_number": "2",
+          "date": "2020-02-19",
+          "current_value": "2.00",
+          "venal_value": "0.00"
+        },
+        {
+          "installment_number": "3",
+          "date": "2020-03-20",
+          "current_value": "2.00",
+          "venal_value": "0.00"
+        },
+        {
+          "installment_number": "4",
+          "date": "2020-04-20",
+          "current_value": "195.89",
+          "venal_value": "196.04"
+        },
+        {
+          "installment_number": "5",
+          "date": "2020-05-20",
+          "current_value": "192.11",
+          "venal_value": "192.73"
+        },
+        {
+          "installment_number": "6",
+          "date": "2020-06-20",
+          "current_value": "188.40",
+          "venal_value": "189.47"
+        },
+        {
+          "installment_number": "7",
+          "date": "2020-07-20",
+          "current_value": "184.76",
+          "venal_value": "186.27"
+        },
+        {
+          "installment_number": "8",
+          "date": "2020-08-20",
+          "current_value": "181.19",
+          "venal_value": "183.13"
+        },
+        {
+          "installment_number": "9",
+          "date": "2020-09-20",
+          "current_value": "177.69",
+          "venal_value": "180.03"
+        },
+        {
+          "installment_number": "10",
+          "date": "2020-10-20",
+          "current_value": "174.26",
+          "venal_value": "176.99"
+        },
+        {
+          "installment_number": "11",
+          "date": "2020-11-20",
+          "current_value": "170.89",
+          "venal_value": "174.00"
+        },
+        {
+          "installment_number": "12",
+          "date": "2020-12-20",
+          "current_value": "167.59",
+          "venal_value": "171.07"
+        },
+        {
+          "installment_number": "13",
+          "date": "2021-01-20",
+          "current_value": "164.36",
+          "venal_value": "168.18"
+        },
+        {
+          "installment_number": "14",
+          "date": "2021-02-20",
+          "current_value": "161.18",
+          "venal_value": "165.34"
+        },
+        {
+          "installment_number": "15",
+          "date": "2021-03-20",
+          "current_value": "158.07",
+          "venal_value": "162.54"
+        },
+        {
+          "installment_number": "16",
+          "date": "2021-04-20",
+          "current_value": "155.02",
+          "venal_value": "159.80"
+        },
+        {
+          "installment_number": "17",
+          "date": "2021-05-20",
+          "current_value": "152.02",
+          "venal_value": "157.10"
+        },
+        {
+          "installment_number": "18",
+          "date": "2021-06-20",
+          "current_value": "149.08",
+          "venal_value": "154.45"
+        },
+        {
+          "installment_number": "19",
+          "date": "2021-07-20",
+          "current_value": "146.21",
+          "venal_value": "151.84"
+        },
+        {
+          "installment_number": "20",
+          "date": "2021-08-20",
+          "current_value": "143.38",
+          "venal_value": "149.27"
+        },
+        {
+          "installment_number": "21",
+          "date": "2021-09-20",
+          "current_value": "140.61",
+          "venal_value": "146.75"
+        },
+        {
+          "installment_number": "22",
+          "date": "2021-10-20",
+          "current_value": "137.90",
+          "venal_value": "144.27"
+        },
+        {
+          "installment_number": "23",
+          "date": "2021-11-20",
+          "current_value": "135.23",
+          "venal_value": "141.84"
+        },
+        {
+          "installment_number": "24",
+          "date": "2021-12-20",
+          "current_value": "132.62",
+          "venal_value": "139.44"
+        },
+        {
+          "installment_number": "25",
+          "date": "2022-01-20",
+          "current_value": "130.06",
+          "venal_value": "137.09"
+        },
+        {
+          "installment_number": "26",
+          "date": "2022-02-20",
+          "current_value": "127.55",
+          "venal_value": "134.77"
+        },
+        {
+          "installment_number": "27",
+          "date": "2022-03-20",
+          "current_value": "125.08",
+          "venal_value": "132.50"
+        },
+        {
+          "installment_number": "28",
+          "date": "2022-04-20",
+          "current_value": "122.67",
+          "venal_value": "130.26"
+        },
+        {
+          "installment_number": "29",
+          "date": "2022-05-20",
+          "current_value": "120.30",
+          "venal_value": "128.06"
+        },
+        {
+          "installment_number": "30",
+          "date": "2022-06-20",
+          "current_value": "117.97",
+          "venal_value": "125.90"
+        },
+        {
+          "installment_number": "31",
+          "date": "2022-07-20",
+          "current_value": "115.70",
+          "venal_value": "123.77"
+        },
+        {
+          "installment_number": "32",
+          "date": "2022-08-20",
+          "current_value": "113.46",
+          "venal_value": "121.68"
+        },
+        {
+          "installment_number": "33",
+          "date": "2022-09-20",
+          "current_value": "111.27",
+          "venal_value": "119.62"
+        },
+        {
+          "installment_number": "34",
+          "date": "2022-10-20",
+          "current_value": "109.12",
+          "venal_value": "117.60"
+        },
+        {
+          "installment_number": "35",
+          "date": "2022-11-20",
+          "current_value": "107.01",
+          "venal_value": "115.62"
+        },
+        {
+          "installment_number": "36",
+          "date": "2022-12-20",
+          "current_value": "104.95",
+          "venal_value": "113.67"
+        },
+        {
+          "installment_number": "37",
+          "date": "2023-01-20",
+          "current_value": "102.92",
+          "venal_value": "111.75"
+        },
+        {
+          "installment_number": "38",
+          "date": "2023-02-20",
+          "current_value": "100.93",
+          "venal_value": "109.86"
+        },
+        {
+          "installment_number": "39",
+          "date": "2023-03-20",
+          "current_value": "98.98",
+          "venal_value": "108.00"
+        },
+        {
+          "installment_number": "40",
+          "date": "2023-04-20",
+          "current_value": "97.07",
+          "venal_value": "106.18"
+        },
+        {
+          "installment_number": "41",
+          "date": "2023-05-20",
+          "current_value": "95.20",
+          "venal_value": "104.39"
+        },
+        {
+          "installment_number": "42",
+          "date": "2023-06-20",
+          "current_value": "93.36",
+          "venal_value": "102.62"
+        },
+        {
+          "installment_number": "43",
+          "date": "2023-07-20",
+          "current_value": "91.55",
+          "venal_value": "100.89"
+        },
+        {
+          "installment_number": "44",
+          "date": "2023-08-20",
+          "current_value": "89.79",
+          "venal_value": "99.19"
+        },
+        {
+          "installment_number": "45",
+          "date": "2023-09-20",
+          "current_value": "88.05",
+          "venal_value": "97.51"
+        },
+        {
+          "installment_number": "46",
+          "date": "2023-10-20",
+          "current_value": "86.35",
+          "venal_value": "95.86"
+        },
+        {
+          "installment_number": "47",
+          "date": "2023-11-20",
+          "current_value": "84.68",
+          "venal_value": "94.24"
+        },
+        {
+          "installment_number": "48",
+          "date": "2023-12-20",
+          "current_value": "83.05",
+          "venal_value": "92.65"
+        },
+        {
+          "installment_number": "49",
+          "date": "2024-01-20",
+          "current_value": "81.44",
+          "venal_value": "91.09"
+        },
+        {
+          "installment_number": "50",
+          "date": "2024-02-20",
+          "current_value": "79.87",
+          "venal_value": "89.55"
+        },
+        {
+          "installment_number": "51",
+          "date": "2024-03-20",
+          "current_value": "78.33",
+          "venal_value": "88.04"
+        },
+        {
+          "installment_number": "52",
+          "date": "2024-04-20",
+          "current_value": "76.81",
+          "venal_value": "86.55"
+        },
+        {
+          "installment_number": "53",
+          "date": "2024-05-20",
+          "current_value": "75.33",
+          "venal_value": "85.09"
+        },
+        {
+          "installment_number": "54",
+          "date": "2024-06-20",
+          "current_value": "73.88",
+          "venal_value": "83.65"
+        },
+        {
+          "installment_number": "55",
+          "date": "2024-07-20",
+          "current_value": "72.45",
+          "venal_value": "82.24"
+        },
+        {
+          "installment_number": "56",
+          "date": "2024-08-20",
+          "current_value": "71.05",
+          "venal_value": "80.85"
+        },
+        {
+          "installment_number": "57",
+          "date": "2024-09-20",
+          "current_value": "69.68",
+          "venal_value": "79.48"
+        },
+        {
+          "installment_number": "58",
+          "date": "2024-10-20",
+          "current_value": "68.33",
+          "venal_value": "78.14"
+        },
+        {
+          "installment_number": "59",
+          "date": "2024-11-20",
+          "current_value": "67.01",
+          "venal_value": "76.82"
+        },
+        {
+          "installment_number": "60",
+          "date": "2024-12-20",
+          "current_value": "65.72",
+          "venal_value": "75.53"
+        },
+        {
+          "installment_number": "61",
+          "date": "2025-01-20",
+          "current_value": "64.45",
+          "venal_value": "74.25"
+        },
+        {
+          "installment_number": "62",
+          "date": "2025-02-20",
+          "current_value": "63.20",
+          "venal_value": "73.00"
+        },
+        {
+          "installment_number": "63",
+          "date": "2025-03-20",
+          "current_value": "61.98",
+          "venal_value": "71.76"
+        },
+        {
+          "installment_number": "64",
+          "date": "2025-04-20",
+          "current_value": "60.79",
+          "venal_value": "70.55"
+        },
+        {
+          "installment_number": "65",
+          "date": "2025-05-20",
+          "current_value": "59.61",
+          "venal_value": "69.36"
+        },
+        {
+          "installment_number": "66",
+          "date": "2025-06-20",
+          "current_value": "58.46",
+          "venal_value": "68.19"
+        },
+        {
+          "installment_number": "67",
+          "date": "2025-07-20",
+          "current_value": "57.33",
+          "venal_value": "67.04"
+        },
+        {
+          "installment_number": "68",
+          "date": "2025-08-20",
+          "current_value": "56.22",
+          "venal_value": "65.90"
+        },
+        {
+          "installment_number": "69",
+          "date": "2025-09-20",
+          "current_value": "55.14",
+          "venal_value": "64.79"
+        },
+        {
+          "installment_number": "70",
+          "date": "2025-10-20",
+          "current_value": "54.07",
+          "venal_value": "63.70"
+        },
+        {
+          "installment_number": "71",
+          "date": "2025-11-20",
+          "current_value": "53.03",
+          "venal_value": "62.62"
+        },
+        {
+          "installment_number": "72",
+          "date": "2025-12-20",
+          "current_value": "52.00",
+          "venal_value": "61.56"
+        },
+        {
+          "installment_number": "73",
+          "date": "2026-01-20",
+          "current_value": "51.00",
+          "venal_value": "60.52"
+        },
+        {
+          "installment_number": "74",
+          "date": "2026-02-20",
+          "current_value": "50.01",
+          "venal_value": "59.50"
+        },
+        {
+          "installment_number": "75",
+          "date": "2026-03-20",
+          "current_value": "49.05",
+          "venal_value": "58.50"
+        },
+        {
+          "installment_number": "76",
+          "date": "2026-04-20",
+          "current_value": "48.10",
+          "venal_value": "57.51"
+        },
+        {
+          "installment_number": "77",
+          "date": "2026-05-20",
+          "current_value": "47.17",
+          "venal_value": "56.54"
+        },
+        {
+          "installment_number": "78",
+          "date": "2026-06-20",
+          "current_value": "46.26",
+          "venal_value": "55.58"
+        },
+        {
+          "installment_number": "79",
+          "date": "2026-07-20",
+          "current_value": "45.37",
+          "venal_value": "54.64"
+        },
+        {
+          "installment_number": "80",
+          "date": "2026-08-20",
+          "current_value": "44.49",
+          "venal_value": "53.72"
+        },
+        {
+          "installment_number": "81",
+          "date": "2026-09-20",
+          "current_value": "43.63",
+          "venal_value": "52.81"
+        },
+        {
+          "installment_number": "82",
+          "date": "2026-10-20",
+          "current_value": "42.79",
+          "venal_value": "51.92"
+        },
+        {
+          "installment_number": "83",
+          "date": "2026-11-20",
+          "current_value": "41.96",
+          "venal_value": "51.05"
+        },
+        {
+          "installment_number": "84",
+          "date": "2026-12-20",
+          "current_value": "41.15",
+          "venal_value": "50.18"
+        },
+        {
+          "installment_number": "85",
+          "date": "2027-01-20",
+          "current_value": "40.36",
+          "venal_value": "49.34"
+        },
+        {
+          "installment_number": "86",
+          "date": "2027-02-20",
+          "current_value": "39.58",
+          "venal_value": "48.50"
+        },
+        {
+          "installment_number": "87",
+          "date": "2027-03-20",
+          "current_value": "38.81",
+          "venal_value": "47.68"
+        },
+        {
+          "installment_number": "88",
+          "date": "2027-04-20",
+          "current_value": "38.06",
+          "venal_value": "46.88"
+        },
+        {
+          "installment_number": "89",
+          "date": "2027-05-20",
+          "current_value": "37.33",
+          "venal_value": "46.09"
+        },
+        {
+          "installment_number": "90",
+          "date": "2027-06-20",
+          "current_value": "36.61",
+          "venal_value": "45.31"
+        },
+        {
+          "installment_number": "91",
+          "date": "2027-07-20",
+          "current_value": "35.90",
+          "venal_value": "44.54"
+        },
+        {
+          "installment_number": "92",
+          "date": "2027-08-20",
+          "current_value": "35.21",
+          "venal_value": "43.79"
+        },
+        {
+          "installment_number": "93",
+          "date": "2027-09-20",
+          "current_value": "34.53",
+          "venal_value": "43.05"
+        },
+        {
+          "installment_number": "94",
+          "date": "2027-10-20",
+          "current_value": "33.86",
+          "venal_value": "42.32"
+        },
+        {
+          "installment_number": "95",
+          "date": "2027-11-20",
+          "current_value": "33.21",
+          "venal_value": "41.61"
+        },
+        {
+          "installment_number": "96",
+          "date": "2027-12-20",
+          "current_value": "32.56",
+          "venal_value": "40.91"
+        }
+      ]
+    }
+  },
+  {
+    "address": "AV CARNEIRO DE MENDONCA 2285",
+    "iof": "0",
+    "rate_advance": "",
+    "percent_comission": "",
+    "date_birth": "1946-03-11 00:00:00",
+    "amount": "4951.91",
+    "last_due": "2027-12-20 00:00:00",
+    "document_number": "618.340.503-59",
+    "liquid_amount": "1633.29",
+    "sales_date": "2020-04-09",
+    "contract": "276244",
+    "portion": "121.09",
+    "index": 9,
+    "operation_date": "2019-11-26 00:00:00",
+    "zip_code": "60510-137",
+    "associated_tax": "1541.88",
+    "contract_date": "2019-11-26 00:00:00",
+    "installments": "96",
+    "first_due": "2020-01-20 00:00:00",
+    "comission": "519.95",
+    "name": "MARIA NASARETH RODRIGUES DA SILVA",
+    "discharge": "1776.74",
+    "contract_rate": "26.37",
+    "final_amount": "11624.64",
+    "values": {
+      "current_value": "5052.37",
+      "venal_value": "5484.96",
+      "portion": "117.14",
+      "annual_rate": "26.3700",
+      "installments": [
+        {
+          "installment_number": "1",
+          "date": "2020-01-20",
+          "current_value": "2.00",
+          "venal_value": "0.00"
+        },
+        {
+          "installment_number": "2",
+          "date": "2020-02-19",
+          "current_value": "2.00",
+          "venal_value": "0.00"
+        },
+        {
+          "installment_number": "3",
+          "date": "2020-03-20",
+          "current_value": "2.00",
+          "venal_value": "0.00"
+        },
+        {
+          "installment_number": "4",
+          "date": "2020-04-20",
+          "current_value": "116.45",
+          "venal_value": "116.54"
+        },
+        {
+          "installment_number": "5",
+          "date": "2020-05-20",
+          "current_value": "114.21",
+          "venal_value": "114.57"
+        },
+        {
+          "installment_number": "6",
+          "date": "2020-06-20",
+          "current_value": "112.00",
+          "venal_value": "112.64"
+        },
+        {
+          "installment_number": "7",
+          "date": "2020-07-20",
+          "current_value": "109.84",
+          "venal_value": "110.74"
+        },
+        {
+          "installment_number": "8",
+          "date": "2020-08-20",
+          "current_value": "107.71",
+          "venal_value": "108.87"
+        },
+        {
+          "installment_number": "9",
+          "date": "2020-09-20",
+          "current_value": "105.63",
+          "venal_value": "107.03"
+        },
+        {
+          "installment_number": "10",
+          "date": "2020-10-20",
+          "current_value": "103.59",
+          "venal_value": "105.22"
+        },
+        {
+          "installment_number": "11",
+          "date": "2020-11-20",
+          "current_value": "101.59",
+          "venal_value": "103.44"
+        },
+        {
+          "installment_number": "12",
+          "date": "2020-12-20",
+          "current_value": "99.63",
+          "venal_value": "101.69"
+        },
+        {
+          "installment_number": "13",
+          "date": "2021-01-20",
+          "current_value": "97.71",
+          "venal_value": "99.98"
+        },
+        {
+          "installment_number": "14",
+          "date": "2021-02-20",
+          "current_value": "95.82",
+          "venal_value": "98.29"
+        },
+        {
+          "installment_number": "15",
+          "date": "2021-03-20",
+          "current_value": "93.97",
+          "venal_value": "96.63"
+        },
+        {
+          "installment_number": "16",
+          "date": "2021-04-20",
+          "current_value": "92.15",
+          "venal_value": "95.00"
+        },
+        {
+          "installment_number": "17",
+          "date": "2021-05-20",
+          "current_value": "90.37",
+          "venal_value": "93.39"
+        },
+        {
+          "installment_number": "18",
+          "date": "2021-06-20",
+          "current_value": "88.63",
+          "venal_value": "91.82"
+        },
+        {
+          "installment_number": "19",
+          "date": "2021-07-20",
+          "current_value": "86.92",
+          "venal_value": "90.26"
+        },
+        {
+          "installment_number": "20",
+          "date": "2021-08-20",
+          "current_value": "85.24",
+          "venal_value": "88.74"
+        },
+        {
+          "installment_number": "21",
+          "date": "2021-09-20",
+          "current_value": "83.59",
+          "venal_value": "87.24"
+        },
+        {
+          "installment_number": "22",
+          "date": "2021-10-20",
+          "current_value": "81.98",
+          "venal_value": "85.77"
+        },
+        {
+          "installment_number": "23",
+          "date": "2021-11-20",
+          "current_value": "80.39",
+          "venal_value": "84.32"
+        },
+        {
+          "installment_number": "24",
+          "date": "2021-12-20",
+          "current_value": "78.84",
+          "venal_value": "82.90"
+        },
+        {
+          "installment_number": "25",
+          "date": "2022-01-20",
+          "current_value": "77.32",
+          "venal_value": "81.50"
+        },
+        {
+          "installment_number": "26",
+          "date": "2022-02-20",
+          "current_value": "75.82",
+          "venal_value": "80.12"
+        },
+        {
+          "installment_number": "27",
+          "date": "2022-03-20",
+          "current_value": "74.36",
+          "venal_value": "78.77"
+        },
+        {
+          "installment_number": "28",
+          "date": "2022-04-20",
+          "current_value": "72.92",
+          "venal_value": "77.44"
+        },
+        {
+          "installment_number": "29",
+          "date": "2022-05-20",
+          "current_value": "71.52",
+          "venal_value": "76.13"
+        },
+        {
+          "installment_number": "30",
+          "date": "2022-06-20",
+          "current_value": "70.13",
+          "venal_value": "74.84"
+        },
+        {
+          "installment_number": "31",
+          "date": "2022-07-20",
+          "current_value": "68.78",
+          "venal_value": "73.58"
+        },
+        {
+          "installment_number": "32",
+          "date": "2022-08-20",
+          "current_value": "67.45",
+          "venal_value": "72.34"
+        },
+        {
+          "installment_number": "33",
+          "date": "2022-09-20",
+          "current_value": "66.15",
+          "venal_value": "71.11"
+        },
+        {
+          "installment_number": "34",
+          "date": "2022-10-20",
+          "current_value": "64.87",
+          "venal_value": "69.91"
+        },
+        {
+          "installment_number": "35",
+          "date": "2022-11-20",
+          "current_value": "63.62",
+          "venal_value": "68.73"
+        },
+        {
+          "installment_number": "36",
+          "date": "2022-12-20",
+          "current_value": "62.39",
+          "venal_value": "67.57"
+        },
+        {
+          "installment_number": "37",
+          "date": "2023-01-20",
+          "current_value": "61.18",
+          "venal_value": "66.43"
+        },
+        {
+          "installment_number": "38",
+          "date": "2023-02-20",
+          "current_value": "60.00",
+          "venal_value": "65.31"
+        },
+        {
+          "installment_number": "39",
+          "date": "2023-03-20",
+          "current_value": "58.84",
+          "venal_value": "64.21"
+        },
+        {
+          "installment_number": "40",
+          "date": "2023-04-20",
+          "current_value": "57.71",
+          "venal_value": "63.12"
+        },
+        {
+          "installment_number": "41",
+          "date": "2023-05-20",
+          "current_value": "56.59",
+          "venal_value": "62.06"
+        },
+        {
+          "installment_number": "42",
+          "date": "2023-06-20",
+          "current_value": "55.50",
+          "venal_value": "61.01"
+        },
+        {
+          "installment_number": "43",
+          "date": "2023-07-20",
+          "current_value": "54.43",
+          "venal_value": "59.98"
+        },
+        {
+          "installment_number": "44",
+          "date": "2023-08-20",
+          "current_value": "53.38",
+          "venal_value": "58.96"
+        },
+        {
+          "installment_number": "45",
+          "date": "2023-09-20",
+          "current_value": "52.34",
+          "venal_value": "57.97"
+        },
+        {
+          "installment_number": "46",
+          "date": "2023-10-20",
+          "current_value": "51.33",
+          "venal_value": "56.99"
+        },
+        {
+          "installment_number": "47",
+          "date": "2023-11-20",
+          "current_value": "50.34",
+          "venal_value": "56.03"
+        },
+        {
+          "installment_number": "48",
+          "date": "2023-12-20",
+          "current_value": "49.37",
+          "venal_value": "55.08"
+        },
+        {
+          "installment_number": "49",
+          "date": "2024-01-20",
+          "current_value": "48.42",
+          "venal_value": "54.15"
+        },
+        {
+          "installment_number": "50",
+          "date": "2024-02-20",
+          "current_value": "47.48",
+          "venal_value": "53.24"
+        },
+        {
+          "installment_number": "51",
+          "date": "2024-03-20",
+          "current_value": "46.56",
+          "venal_value": "52.34"
+        },
+        {
+          "installment_number": "52",
+          "date": "2024-04-20",
+          "current_value": "45.66",
+          "venal_value": "51.45"
+        },
+        {
+          "installment_number": "53",
+          "date": "2024-05-20",
+          "current_value": "44.78",
+          "venal_value": "50.58"
+        },
+        {
+          "installment_number": "54",
+          "date": "2024-06-20",
+          "current_value": "43.92",
+          "venal_value": "49.73"
+        },
+        {
+          "installment_number": "55",
+          "date": "2024-07-20",
+          "current_value": "43.07",
+          "venal_value": "48.89"
+        },
+        {
+          "installment_number": "56",
+          "date": "2024-08-20",
+          "current_value": "42.24",
+          "venal_value": "48.06"
+        },
+        {
+          "installment_number": "57",
+          "date": "2024-09-20",
+          "current_value": "41.42",
+          "venal_value": "47.25"
+        },
+        {
+          "installment_number": "58",
+          "date": "2024-10-20",
+          "current_value": "40.62",
+          "venal_value": "46.45"
+        },
+        {
+          "installment_number": "59",
+          "date": "2024-11-20",
+          "current_value": "39.84",
+          "venal_value": "45.67"
+        },
+        {
+          "installment_number": "60",
+          "date": "2024-12-20",
+          "current_value": "39.07",
+          "venal_value": "44.90"
+        },
+        {
+          "installment_number": "61",
+          "date": "2025-01-20",
+          "current_value": "38.31",
+          "venal_value": "44.14"
+        },
+        {
+          "installment_number": "62",
+          "date": "2025-02-20",
+          "current_value": "37.57",
+          "venal_value": "43.39"
+        },
+        {
+          "installment_number": "63",
+          "date": "2025-03-20",
+          "current_value": "36.85",
+          "venal_value": "42.66"
+        },
+        {
+          "installment_number": "64",
+          "date": "2025-04-20",
+          "current_value": "36.14",
+          "venal_value": "41.94"
+        },
+        {
+          "installment_number": "65",
+          "date": "2025-05-20",
+          "current_value": "35.44",
+          "venal_value": "41.23"
+        },
+        {
+          "installment_number": "66",
+          "date": "2025-06-20",
+          "current_value": "34.75",
+          "venal_value": "40.54"
+        },
+        {
+          "installment_number": "67",
+          "date": "2025-07-20",
+          "current_value": "34.08",
+          "venal_value": "39.85"
+        },
+        {
+          "installment_number": "68",
+          "date": "2025-08-20",
+          "current_value": "33.42",
+          "venal_value": "39.18"
+        },
+        {
+          "installment_number": "69",
+          "date": "2025-09-20",
+          "current_value": "32.78",
+          "venal_value": "38.52"
+        },
+        {
+          "installment_number": "70",
+          "date": "2025-10-20",
+          "current_value": "32.15",
+          "venal_value": "37.87"
+        },
+        {
+          "installment_number": "71",
+          "date": "2025-11-20",
+          "current_value": "31.52",
+          "venal_value": "37.23"
+        },
+        {
+          "installment_number": "72",
+          "date": "2025-12-20",
+          "current_value": "30.92",
+          "venal_value": "36.60"
+        },
+        {
+          "installment_number": "73",
+          "date": "2026-01-20",
+          "current_value": "30.32",
+          "venal_value": "35.98"
+        },
+        {
+          "installment_number": "74",
+          "date": "2026-02-20",
+          "current_value": "29.73",
+          "venal_value": "35.37"
+        },
+        {
+          "installment_number": "75",
+          "date": "2026-03-20",
+          "current_value": "29.16",
+          "venal_value": "34.78"
+        },
+        {
+          "installment_number": "76",
+          "date": "2026-04-20",
+          "current_value": "28.60",
+          "venal_value": "34.19"
+        },
+        {
+          "installment_number": "77",
+          "date": "2026-05-20",
+          "current_value": "28.04",
+          "venal_value": "33.61"
+        },
+        {
+          "installment_number": "78",
+          "date": "2026-06-20",
+          "current_value": "27.50",
+          "venal_value": "33.04"
+        },
+        {
+          "installment_number": "79",
+          "date": "2026-07-20",
+          "current_value": "26.97",
+          "venal_value": "32.48"
+        },
+        {
+          "installment_number": "80",
+          "date": "2026-08-20",
+          "current_value": "26.45",
+          "venal_value": "31.94"
+        },
+        {
+          "installment_number": "81",
+          "date": "2026-09-20",
+          "current_value": "25.94",
+          "venal_value": "31.40"
+        },
+        {
+          "installment_number": "82",
+          "date": "2026-10-20",
+          "current_value": "25.44",
+          "venal_value": "30.87"
+        },
+        {
+          "installment_number": "83",
+          "date": "2026-11-20",
+          "current_value": "24.95",
+          "venal_value": "30.35"
+        },
+        {
+          "installment_number": "84",
+          "date": "2026-12-20",
+          "current_value": "24.46",
+          "venal_value": "29.83"
+        },
+        {
+          "installment_number": "85",
+          "date": "2027-01-20",
+          "current_value": "23.99",
+          "venal_value": "29.33"
+        },
+        {
+          "installment_number": "86",
+          "date": "2027-02-20",
+          "current_value": "23.53",
+          "venal_value": "28.83"
+        },
+        {
+          "installment_number": "87",
+          "date": "2027-03-20",
+          "current_value": "23.07",
+          "venal_value": "28.35"
+        },
+        {
+          "installment_number": "88",
+          "date": "2027-04-20",
+          "current_value": "22.63",
+          "venal_value": "27.87"
+        },
+        {
+          "installment_number": "89",
+          "date": "2027-05-20",
+          "current_value": "22.19",
+          "venal_value": "27.40"
+        },
+        {
+          "installment_number": "90",
+          "date": "2027-06-20",
+          "current_value": "21.76",
+          "venal_value": "26.93"
+        },
+        {
+          "installment_number": "91",
+          "date": "2027-07-20",
+          "current_value": "21.34",
+          "venal_value": "26.48"
+        },
+        {
+          "installment_number": "92",
+          "date": "2027-08-20",
+          "current_value": "20.93",
+          "venal_value": "26.03"
+        },
+        {
+          "installment_number": "93",
+          "date": "2027-09-20",
+          "current_value": "20.53",
+          "venal_value": "25.59"
+        },
+        {
+          "installment_number": "94",
+          "date": "2027-10-20",
+          "current_value": "20.13",
+          "venal_value": "25.16"
+        },
+        {
+          "installment_number": "95",
+          "date": "2027-11-20",
+          "current_value": "19.74",
+          "venal_value": "24.74"
+        },
+        {
+          "installment_number": "96",
+          "date": "2027-12-20",
+          "current_value": "19.36",
+          "venal_value": "24.32"
+        }
+      ]
+    }
+  },
+  {
+    "address": "RUA MANUEL DE CARVALHO 25",
+    "iof": "0",
+    "rate_advance": "",
+    "percent_comission": "",
+    "date_birth": "1945-03-12 00:00:00",
+    "amount": "3804.41",
+    "last_due": "2027-12-20 00:00:00",
+    "document_number": "443.728.927-72",
+    "liquid_amount": "695.32",
+    "sales_date": "2020-04-09",
+    "contract": "275990",
+    "portion": "93.03",
+    "index": 10,
+    "operation_date": "2019-11-26 00:00:00",
+    "zip_code": "23580-150",
+    "associated_tax": "921.51",
+    "contract_date": "2019-11-26 00:00:00",
+    "installments": "96",
+    "first_due": "2020-01-20 00:00:00",
+    "comission": "399.46",
+    "name": "WALTER BELEM",
+    "discharge": "2187.58",
+    "contract_rate": "26.37",
+    "final_amount": "8930.88",
+    "values": {
+      "current_value": "3882.98",
+      "venal_value": "4213.93",
+      "portion": "89.99",
+      "annual_rate": "26.3700",
+      "installments": [
+        {
+          "installment_number": "1",
+          "date": "2020-01-20",
+          "current_value": "2.00",
+          "venal_value": "0.00"
+        },
+        {
+          "installment_number": "2",
+          "date": "2020-02-19",
+          "current_value": "2.00",
+          "venal_value": "0.00"
+        },
+        {
+          "installment_number": "3",
+          "date": "2020-03-20",
+          "current_value": "2.00",
+          "venal_value": "0.00"
+        },
+        {
+          "installment_number": "4",
+          "date": "2020-04-20",
+          "current_value": "89.47",
+          "venal_value": "89.53"
+        },
+        {
+          "installment_number": "5",
+          "date": "2020-05-20",
+          "current_value": "87.74",
+          "venal_value": "88.02"
+        },
+        {
+          "installment_number": "6",
+          "date": "2020-06-20",
+          "current_value": "86.05",
+          "venal_value": "86.54"
+        },
+        {
+          "installment_number": "7",
+          "date": "2020-07-20",
+          "current_value": "84.38",
+          "venal_value": "85.07"
+        },
+        {
+          "installment_number": "8",
+          "date": "2020-08-20",
+          "current_value": "82.75",
+          "venal_value": "83.64"
+        },
+        {
+          "installment_number": "9",
+          "date": "2020-09-20",
+          "current_value": "81.16",
+          "venal_value": "82.23"
+        },
+        {
+          "installment_number": "10",
+          "date": "2020-10-20",
+          "current_value": "79.59",
+          "venal_value": "80.84"
+        },
+        {
+          "installment_number": "11",
+          "date": "2020-11-20",
+          "current_value": "78.05",
+          "venal_value": "79.47"
+        },
+        {
+          "installment_number": "12",
+          "date": "2020-12-20",
+          "current_value": "76.54",
+          "venal_value": "78.13"
+        },
+        {
+          "installment_number": "13",
+          "date": "2021-01-20",
+          "current_value": "75.06",
+          "venal_value": "76.81"
+        },
+        {
+          "installment_number": "14",
+          "date": "2021-02-20",
+          "current_value": "73.62",
+          "venal_value": "75.51"
+        },
+        {
+          "installment_number": "15",
+          "date": "2021-03-20",
+          "current_value": "72.19",
+          "venal_value": "74.24"
+        },
+        {
+          "installment_number": "16",
+          "date": "2021-04-20",
+          "current_value": "70.80",
+          "venal_value": "72.98"
+        },
+        {
+          "installment_number": "17",
+          "date": "2021-05-20",
+          "current_value": "69.43",
+          "venal_value": "71.75"
+        },
+        {
+          "installment_number": "18",
+          "date": "2021-06-20",
+          "current_value": "68.09",
+          "venal_value": "70.54"
+        },
+        {
+          "installment_number": "19",
+          "date": "2021-07-20",
+          "current_value": "66.78",
+          "venal_value": "69.35"
+        },
+        {
+          "installment_number": "20",
+          "date": "2021-08-20",
+          "current_value": "65.49",
+          "venal_value": "68.18"
+        },
+        {
+          "installment_number": "21",
+          "date": "2021-09-20",
+          "current_value": "64.22",
+          "venal_value": "67.03"
+        },
+        {
+          "installment_number": "22",
+          "date": "2021-10-20",
+          "current_value": "62.98",
+          "venal_value": "65.89"
+        },
+        {
+          "installment_number": "23",
+          "date": "2021-11-20",
+          "current_value": "61.76",
+          "venal_value": "64.78"
+        },
+        {
+          "installment_number": "24",
+          "date": "2021-12-20",
+          "current_value": "60.57",
+          "venal_value": "63.69"
+        },
+        {
+          "installment_number": "25",
+          "date": "2022-01-20",
+          "current_value": "59.40",
+          "venal_value": "62.61"
+        },
+        {
+          "installment_number": "26",
+          "date": "2022-02-20",
+          "current_value": "58.25",
+          "venal_value": "61.55"
+        },
+        {
+          "installment_number": "27",
+          "date": "2022-03-20",
+          "current_value": "57.13",
+          "venal_value": "60.51"
+        },
+        {
+          "installment_number": "28",
+          "date": "2022-04-20",
+          "current_value": "56.03",
+          "venal_value": "59.49"
+        },
+        {
+          "installment_number": "29",
+          "date": "2022-05-20",
+          "current_value": "54.94",
+          "venal_value": "58.49"
+        },
+        {
+          "installment_number": "30",
+          "date": "2022-06-20",
+          "current_value": "53.88",
+          "venal_value": "57.50"
+        },
+        {
+          "installment_number": "31",
+          "date": "2022-07-20",
+          "current_value": "52.84",
+          "venal_value": "56.53"
+        },
+        {
+          "installment_number": "32",
+          "date": "2022-08-20",
+          "current_value": "51.82",
+          "venal_value": "55.57"
+        },
+        {
+          "installment_number": "33",
+          "date": "2022-09-20",
+          "current_value": "50.82",
+          "venal_value": "54.64"
+        },
+        {
+          "installment_number": "34",
+          "date": "2022-10-20",
+          "current_value": "49.84",
+          "venal_value": "53.71"
+        },
+        {
+          "installment_number": "35",
+          "date": "2022-11-20",
+          "current_value": "48.88",
+          "venal_value": "52.81"
+        },
+        {
+          "installment_number": "36",
+          "date": "2022-12-20",
+          "current_value": "47.93",
+          "venal_value": "51.91"
+        },
+        {
+          "installment_number": "37",
+          "date": "2023-01-20",
+          "current_value": "47.01",
+          "venal_value": "51.04"
+        },
+        {
+          "installment_number": "38",
+          "date": "2023-02-20",
+          "current_value": "46.10",
+          "venal_value": "50.17"
+        },
+        {
+          "installment_number": "39",
+          "date": "2023-03-20",
+          "current_value": "45.21",
+          "venal_value": "49.33"
+        },
+        {
+          "installment_number": "40",
+          "date": "2023-04-20",
+          "current_value": "44.33",
+          "venal_value": "48.49"
+        },
+        {
+          "installment_number": "41",
+          "date": "2023-05-20",
+          "current_value": "43.48",
+          "venal_value": "47.68"
+        },
+        {
+          "installment_number": "42",
+          "date": "2023-06-20",
+          "current_value": "42.64",
+          "venal_value": "46.87"
+        },
+        {
+          "installment_number": "43",
+          "date": "2023-07-20",
+          "current_value": "41.81",
+          "venal_value": "46.08"
+        },
+        {
+          "installment_number": "44",
+          "date": "2023-08-20",
+          "current_value": "41.01",
+          "venal_value": "45.30"
+        },
+        {
+          "installment_number": "45",
+          "date": "2023-09-20",
+          "current_value": "40.21",
+          "venal_value": "44.54"
+        },
+        {
+          "installment_number": "46",
+          "date": "2023-10-20",
+          "current_value": "39.44",
+          "venal_value": "43.78"
+        },
+        {
+          "installment_number": "47",
+          "date": "2023-11-20",
+          "current_value": "38.68",
+          "venal_value": "43.04"
+        },
+        {
+          "installment_number": "48",
+          "date": "2023-12-20",
+          "current_value": "37.93",
+          "venal_value": "42.32"
+        },
+        {
+          "installment_number": "49",
+          "date": "2024-01-20",
+          "current_value": "37.20",
+          "venal_value": "41.60"
+        },
+        {
+          "installment_number": "50",
+          "date": "2024-02-20",
+          "current_value": "36.48",
+          "venal_value": "40.90"
+        },
+        {
+          "installment_number": "51",
+          "date": "2024-03-20",
+          "current_value": "35.77",
+          "venal_value": "40.21"
+        },
+        {
+          "installment_number": "52",
+          "date": "2024-04-20",
+          "current_value": "35.08",
+          "venal_value": "39.53"
+        },
+        {
+          "installment_number": "53",
+          "date": "2024-05-20",
+          "current_value": "34.41",
+          "venal_value": "38.86"
+        },
+        {
+          "installment_number": "54",
+          "date": "2024-06-20",
+          "current_value": "33.74",
+          "venal_value": "38.21"
+        },
+        {
+          "installment_number": "55",
+          "date": "2024-07-20",
+          "current_value": "33.09",
+          "venal_value": "37.56"
+        },
+        {
+          "installment_number": "56",
+          "date": "2024-08-20",
+          "current_value": "32.45",
+          "venal_value": "36.93"
+        },
+        {
+          "installment_number": "57",
+          "date": "2024-09-20",
+          "current_value": "31.82",
+          "venal_value": "36.30"
+        },
+        {
+          "installment_number": "58",
+          "date": "2024-10-20",
+          "current_value": "31.21",
+          "venal_value": "35.69"
+        },
+        {
+          "installment_number": "59",
+          "date": "2024-11-20",
+          "current_value": "30.61",
+          "venal_value": "35.09"
+        },
+        {
+          "installment_number": "60",
+          "date": "2024-12-20",
+          "current_value": "30.01",
+          "venal_value": "34.49"
+        },
+        {
+          "installment_number": "61",
+          "date": "2025-01-20",
+          "current_value": "29.43",
+          "venal_value": "33.91"
+        },
+        {
+          "installment_number": "62",
+          "date": "2025-02-20",
+          "current_value": "28.87",
+          "venal_value": "33.34"
+        },
+        {
+          "installment_number": "63",
+          "date": "2025-03-20",
+          "current_value": "28.31",
+          "venal_value": "32.78"
+        },
+        {
+          "installment_number": "64",
+          "date": "2025-04-20",
+          "current_value": "27.76",
+          "venal_value": "32.22"
+        },
+        {
+          "installment_number": "65",
+          "date": "2025-05-20",
+          "current_value": "27.23",
+          "venal_value": "31.68"
+        },
+        {
+          "installment_number": "66",
+          "date": "2025-06-20",
+          "current_value": "26.70",
+          "venal_value": "31.14"
+        },
+        {
+          "installment_number": "67",
+          "date": "2025-07-20",
+          "current_value": "26.18",
+          "venal_value": "30.62"
+        },
+        {
+          "installment_number": "68",
+          "date": "2025-08-20",
+          "current_value": "25.68",
+          "venal_value": "30.10"
+        },
+        {
+          "installment_number": "69",
+          "date": "2025-09-20",
+          "current_value": "25.18",
+          "venal_value": "29.59"
+        },
+        {
+          "installment_number": "70",
+          "date": "2025-10-20",
+          "current_value": "24.70",
+          "venal_value": "29.09"
+        },
+        {
+          "installment_number": "71",
+          "date": "2025-11-20",
+          "current_value": "24.22",
+          "venal_value": "28.60"
+        },
+        {
+          "installment_number": "72",
+          "date": "2025-12-20",
+          "current_value": "23.75",
+          "venal_value": "28.12"
+        },
+        {
+          "installment_number": "73",
+          "date": "2026-01-20",
+          "current_value": "23.29",
+          "venal_value": "27.64"
+        },
+        {
+          "installment_number": "74",
+          "date": "2026-02-20",
+          "current_value": "22.84",
+          "venal_value": "27.18"
+        },
+        {
+          "installment_number": "75",
+          "date": "2026-03-20",
+          "current_value": "22.40",
+          "venal_value": "26.72"
+        },
+        {
+          "installment_number": "76",
+          "date": "2026-04-20",
+          "current_value": "21.97",
+          "venal_value": "26.27"
+        },
+        {
+          "installment_number": "77",
+          "date": "2026-05-20",
+          "current_value": "21.54",
+          "venal_value": "25.82"
+        },
+        {
+          "installment_number": "78",
+          "date": "2026-06-20",
+          "current_value": "21.13",
+          "venal_value": "25.39"
+        },
+        {
+          "installment_number": "79",
+          "date": "2026-07-20",
+          "current_value": "20.72",
+          "venal_value": "24.96"
+        },
+        {
+          "installment_number": "80",
+          "date": "2026-08-20",
+          "current_value": "20.32",
+          "venal_value": "24.54"
+        },
+        {
+          "installment_number": "81",
+          "date": "2026-09-20",
+          "current_value": "19.93",
+          "venal_value": "24.12"
+        },
+        {
+          "installment_number": "82",
+          "date": "2026-10-20",
+          "current_value": "19.54",
+          "venal_value": "23.71"
+        },
+        {
+          "installment_number": "83",
+          "date": "2026-11-20",
+          "current_value": "19.17",
+          "venal_value": "23.31"
+        },
+        {
+          "installment_number": "84",
+          "date": "2026-12-20",
+          "current_value": "18.80",
+          "venal_value": "22.92"
+        },
+        {
+          "installment_number": "85",
+          "date": "2027-01-20",
+          "current_value": "18.43",
+          "venal_value": "22.53"
+        },
+        {
+          "installment_number": "86",
+          "date": "2027-02-20",
+          "current_value": "18.08",
+          "venal_value": "22.15"
+        },
+        {
+          "installment_number": "87",
+          "date": "2027-03-20",
+          "current_value": "17.73",
+          "venal_value": "21.78"
+        },
+        {
+          "installment_number": "88",
+          "date": "2027-04-20",
+          "current_value": "17.38",
+          "venal_value": "21.41"
+        },
+        {
+          "installment_number": "89",
+          "date": "2027-05-20",
+          "current_value": "17.05",
+          "venal_value": "21.05"
+        },
+        {
+          "installment_number": "90",
+          "date": "2027-06-20",
+          "current_value": "16.72",
+          "venal_value": "20.69"
+        },
+        {
+          "installment_number": "91",
+          "date": "2027-07-20",
+          "current_value": "16.40",
+          "venal_value": "20.34"
+        },
+        {
+          "installment_number": "92",
+          "date": "2027-08-20",
+          "current_value": "16.08",
+          "venal_value": "20.00"
+        },
+        {
+          "installment_number": "93",
+          "date": "2027-09-20",
+          "current_value": "15.77",
+          "venal_value": "19.66"
+        },
+        {
+          "installment_number": "94",
+          "date": "2027-10-20",
+          "current_value": "15.46",
+          "venal_value": "19.33"
+        },
+        {
+          "installment_number": "95",
+          "date": "2027-11-20",
+          "current_value": "15.17",
+          "venal_value": "19.00"
+        },
+        {
+          "installment_number": "96",
+          "date": "2027-12-20",
+          "current_value": "14.87",
+          "venal_value": "18.68"
+        }
+      ]
+    }
+  },
+  {
+    "status": "finished"
+  }
+]
