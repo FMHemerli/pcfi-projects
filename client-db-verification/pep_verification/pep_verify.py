@@ -8,7 +8,7 @@ pep_list['CPF'] = pep_list['CPF'].apply(lambda value: str(value).replace("*", ""
 pep_list['Name'] = pep_list['Nome_PEP']
 pep_list['Name'] = pep_list['Name'].apply(lambda value: str(unicodedata.normalize('NFKD', value).encode('ASCII', 'ignore').decode('UTF-8').upper()))
 pep_list = pep_list[['CPF', 'Name']]
-client_list = pd.read_json("parati_clients.json", orient='records')
+client_list = pd.read_json("pcfi_clients.json", orient='records')
 
 x = [""]*len(client_list['results'])
 y = [""]*len(client_list['results'])

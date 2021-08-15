@@ -17,7 +17,7 @@ fop_list['Name'] = fop_list['Name'].apply(lambda value: value.replace(" NAN", ""
 fop_list = fop_list[['DATAID', 'Name']]
 print(fop_list)
 
-client_list = pd.read_json("parati_clients.json", orient='records')
+client_list = pd.read_json("pcfi_clients.json", orient='records')
 
 x = [""]*len(client_list['results'])
 for i in range(len(x)):
